@@ -1,0 +1,516 @@
+{
+  "subdivision": [
+    {
+      "value": "FPV К.Т. -",
+      "isDefault": true
+    },
+    {
+      "value": "FPV С.Т. -",
+      "isDefault": true
+    },
+    {
+      "value": "Lancet-",
+      "isDefault": true
+    },
+    {
+      "value": "Supercam-",
+      "isDefault": true
+    },
+    {
+      "value": "Zala-",
+      "isDefault": true
+    },
+    {
+      "value": "Орлан-10",
+      "isDefault": true
+    },
+    {
+      "value": "ПВО БЯ",
+      "isDefault": true
+    },
+    {
+      "value": "РЭР-",
+      "isDefault": true
+    },
+    {
+      "value": "Скальпель-",
+      "isDefault": true
+    },
+    {
+      "value": "Черный глаз-",
+      "isDefault": true
+    },
+    {
+      "value": "хуй",
+      "isDefault": false
+    }
+  ],
+  "droneType": [
+    {
+      "value": "КВН",
+      "isDefault": true
+    },
+    {
+      "value": "КВН-Т",
+      "isDefault": true
+    },
+    {
+      "value": "Молния-2",
+      "isDefault": true
+    },
+    {
+      "value": "Молния-2ДТ",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-1",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-1Т",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-3",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-5Т",
+      "isDefault": true
+    },
+    {
+      "value": "Скальпель",
+      "isDefault": true
+    },
+    {
+      "value": "Утка Д",
+      "isDefault": true
+    },
+    {
+      "value": "Утка Н",
+      "isDefault": true
+    },
+    {
+      "value": "Х-51",
+      "isDefault": true
+    },
+    {
+      "value": "Х-52",
+      "isDefault": true
+    },
+    {
+      "value": "Ш-10",
+      "isDefault": true
+    }
+  ],
+  "controlType": [
+    {
+      "value": "2.1",
+      "isDefault": true
+    },
+    {
+      "value": "2.2",
+      "isDefault": true
+    },
+    {
+      "value": "2.3",
+      "isDefault": true
+    },
+    {
+      "value": "2.4",
+      "isDefault": true
+    },
+    {
+      "value": "2.5",
+      "isDefault": true
+    },
+    {
+      "value": "Оптика",
+      "isDefault": true
+    }
+  ],
+  "warhead": [
+    {
+      "value": "9М115(МЕТИС)",
+      "isDefault": true
+    },
+    {
+      "value": "АТАКА-М",
+      "isDefault": true
+    },
+    {
+      "value": "ДКРП-4",
+      "isDefault": true
+    },
+    {
+      "value": "Зажигалка",
+      "isDefault": true
+    },
+    {
+      "value": "КАПЛЯ",
+      "isDefault": true
+    },
+    {
+      "value": "КБ-80",
+      "isDefault": true
+    },
+    {
+      "value": "КБЧ-4,5(Атака)",
+      "isDefault": true
+    },
+    {
+      "value": "КЗ-6",
+      "isDefault": true
+    },
+    {
+      "value": "КОБЧ-2,5",
+      "isDefault": true
+    },
+    {
+      "value": "КОЗБЧ-1,8",
+      "isDefault": true
+    },
+    {
+      "value": "КОЗБЧ-3",
+      "isDefault": true
+    },
+    {
+      "value": "КОТБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "КОФБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "КОФЗБЧ-1.8",
+      "isDefault": true
+    },
+    {
+      "value": "КОФЗБЧ-3",
+      "isDefault": true
+    },
+    {
+      "value": "КОФЗБЧ-4",
+      "isDefault": true
+    },
+    {
+      "value": "КОФЗБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "КПТМ-3",
+      "isDefault": true
+    },
+    {
+      "value": "КПТМ-3А",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-3",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ОФСП-0,8",
+      "isDefault": true
+    },
+    {
+      "value": "ОФСП-1.7",
+      "isDefault": true
+    },
+    {
+      "value": "ОФСП-2.5",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-16",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-16В",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-16С",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-7ВЛ",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-7ВР",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-7ВС",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-7С",
+      "isDefault": true
+    },
+    {
+      "value": "ПМН4",
+      "isDefault": true
+    },
+    {
+      "value": "ПОМ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ПТАБ",
+      "isDefault": true
+    },
+    {
+      "value": "ПТАБ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ПТАБ-2,5 КО",
+      "isDefault": true
+    },
+    {
+      "value": "ПТМ-1",
+      "isDefault": true
+    },
+    {
+      "value": "ПТМ-3",
+      "isDefault": true
+    },
+    {
+      "value": "ПТМС",
+      "isDefault": true
+    },
+    {
+      "value": "Рапира",
+      "isDefault": true
+    },
+    {
+      "value": "С8Ком",
+      "isDefault": true
+    },
+    {
+      "value": "СВУ",
+      "isDefault": true
+    },
+    {
+      "value": "ТББ-3",
+      "isDefault": true
+    },
+    {
+      "value": "ТББЧ-2.5",
+      "isDefault": true
+    },
+    {
+      "value": "ТБГ-7В",
+      "isDefault": true
+    },
+    {
+      "value": "ТМ-62",
+      "isDefault": true
+    },
+    {
+      "value": "ТМ-72",
+      "isDefault": true
+    },
+    {
+      "value": "Шипы",
+      "isDefault": true
+    }
+  ],
+  "fuzeType": [
+    {
+      "value": "ИНЕРТНЫЙ",
+      "isDefault": true
+    },
+    {
+      "value": "НАКОЛЬНИК",
+      "isDefault": true
+    },
+    {
+      "value": "ПЯТИТОЧЕЧНИК",
+      "isDefault": true
+    },
+    {
+      "value": "УДЗ",
+      "isDefault": true
+    },
+    {
+      "value": "УДИВ",
+      "isDefault": true
+    },
+    {
+      "value": "УДИВ ДД",
+      "isDefault": true
+    },
+    {
+      "value": "ШТАТНЫЙ",
+      "isDefault": true
+    },
+    {
+      "value": "ЭДПР",
+      "isDefault": true
+    },
+    {
+      "value": "ЭДПР, МД5М",
+      "isDefault": true
+    }
+  ],
+  "targetType": [
+    {
+      "value": "Баба Яга",
+      "isDefault": true
+    },
+    {
+      "value": "БпЛА",
+      "isDefault": true
+    },
+    {
+      "value": "Наземные дроны",
+      "isDefault": true
+    },
+    {
+      "value": "ПТРК",
+      "isDefault": true
+    },
+    {
+      "value": "ПУ БпЛА",
+      "isDefault": true
+    },
+    {
+      "value": "РЛС",
+      "isDefault": true
+    },
+    {
+      "value": "РСЗО",
+      "isDefault": true
+    },
+    {
+      "value": "РЭБ",
+      "isDefault": true
+    },
+    {
+      "value": "РЭР",
+      "isDefault": true
+    },
+    {
+      "value": "автомобильная техника",
+      "isDefault": true
+    },
+    {
+      "value": "боевая бронированная машина",
+      "isDefault": true
+    },
+    {
+      "value": "боевая машина пехоты",
+      "isDefault": true
+    },
+    {
+      "value": "бронетранспортер",
+      "isDefault": true
+    },
+    {
+      "value": "буксируемое артиллерийское орудие",
+      "isDefault": true
+    },
+    {
+      "value": "живая сила 200",
+      "isDefault": true
+    },
+    {
+      "value": "живая сила 300",
+      "isDefault": true
+    },
+    {
+      "value": "зенитная установка",
+      "isDefault": true
+    },
+    {
+      "value": "инженерная техника",
+      "isDefault": true
+    },
+    {
+      "value": "инжереное сооружение",
+      "isDefault": true
+    },
+    {
+      "value": "макет",
+      "isDefault": true
+    },
+    {
+      "value": "миномет",
+      "isDefault": true
+    },
+    {
+      "value": "мототехника",
+      "isDefault": true
+    },
+    {
+      "value": "огневая позиция",
+      "isDefault": true
+    },
+    {
+      "value": "огневые средства",
+      "isDefault": true
+    },
+    {
+      "value": "пункт временной дислокации",
+      "isDefault": true
+    },
+    {
+      "value": "пункт управления",
+      "isDefault": true
+    },
+    {
+      "value": "самоходное артиллерийское орудие",
+      "isDefault": true
+    },
+    {
+      "value": "система связи",
+      "isDefault": true
+    },
+    {
+      "value": "склад БК",
+      "isDefault": true
+    },
+    {
+      "value": "склад ГСМ",
+      "isDefault": true
+    },
+    {
+      "value": "средства жизнеобеспечения",
+      "isDefault": true
+    },
+    {
+      "value": "танк",
+      "isDefault": true
+    }
+  ],
+  "result": [
+    {
+      "value": "не поражено",
+      "isDefault": true
+    },
+    {
+      "value": "поражено",
+      "isDefault": true
+    },
+    {
+      "value": "уничтожено",
+      "isDefault": true
+    }
+  ]
+}
