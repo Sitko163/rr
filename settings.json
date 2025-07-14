@@ -133,6 +133,12 @@
       "isDefault": true
     }
   ],
+    "videoTransmitter": [
+    {"value": "3.3", "isDefault": true},
+    {"value": "3.7", "isDefault": true},
+    {"value": "5.8", "isDefault": true},
+    {"value": "Оптика", "isDefault": true}
+  ],
   "warhead": [
     {
       "value": "9М115(МЕТИС)",
