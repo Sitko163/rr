@@ -90,6 +90,10 @@
       "value": "Утка Н",
       "isDefault": true
     },
+        {
+      "value": "Бумеранг",
+      "isDefault": true
+    },
     {
       "value": "Х-51",
       "isDefault": true
@@ -132,17 +136,28 @@
       "value": "кузнечик",
       "isDefault": true
     },
+        {
+      "value": "500",
+      "isDefault": true
+    },
+        {
+      "value": "700",
+      "isDefault": true
+    },
     {
       "value": "Оптика",
       "isDefault": true
     }
   ],
     "videoTransmitter": [
+    {"value": "1.2", "isDefault": true},
+    {"value": "1.7", "isDefault": true},
     {"value": "2.2", "isDefault": true},
     {"value": "2.4", "isDefault": true},
     {"value": "2.2-2.4", "isDefault": true},
     {"value": "3.3", "isDefault": true},
     {"value": "3.7", "isDefault": true},
+    {"value": "4.9", "isDefault": true},
     {"value": "5.8", "isDefault": true},
     {"value": "Оптика", "isDefault": true}
   ],
