@@ -4,6 +4,10 @@
       "value": "FPV К.Т. -",
       "isDefault": true
     },
+        {
+      "value": "FPV К.Т. ПВО -",
+      "isDefault": true
+    },
     {
       "value": "FPV С.Т. -",
       "isDefault": true
