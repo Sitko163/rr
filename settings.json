@@ -70,6 +70,10 @@
       "value": "ПВХ-3",
       "isDefault": true
     },
+        {
+      "value": "ПВХ-3Т",
+      "isDefault": true
+    },
     {
       "value": "ПВХ-5",
       "isDefault": true
@@ -220,6 +224,10 @@
     },
     {
       "value": "КОФЗБЧ-3",
+      "isDefault": true
+    },
+        {
+      "value": "КОФЗБЧ-3Ф",
       "isDefault": true
     },
     {
