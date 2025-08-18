@@ -95,7 +95,11 @@
       "isDefault": true
     },
         {
-      "value": "Бумеранг",
+      "value": "Бумеранг-10 (День)",
+      "isDefault": true
+    },
+            {
+      "value": "Бумеранг-10 (Ночь)",
       "isDefault": true
     },
     {
