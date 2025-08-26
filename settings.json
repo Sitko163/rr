@@ -412,8 +412,12 @@
       "value": "ЗТП 300",
       "isDefault": true
     },
+        {
+      "value": "ЗТП 300",
+      "isDefault": true
+    },
     {
-      "value": "ЭДПР, МД5М",
+      "value": "МД5М",
       "isDefault": true
     }
   ],
