@@ -24,6 +24,10 @@
       "value": "Орлан-10",
       "isDefault": true
     },
+        {
+      "value": "Разведывательные БПЛА",
+      "isDefault": true
+    },
     {
       "value": "ПВО БЯ",
       "isDefault": true
