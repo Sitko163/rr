@@ -66,6 +66,10 @@
       "value": "ПВХ-1",
       "isDefault": true
     },
+        {
+      "value": "ПВХ-1С",
+      "isDefault": true
+    },
     {
       "value": "ПВХ-1Т",
       "isDefault": true
