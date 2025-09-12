@@ -66,6 +66,10 @@
       "value": "Молния-2ИИ",
       "isDefault": true
     },
+        {
+      "value": "Молния-2ИИТ",
+      "isDefault": true
+    },
     {
       "value": "ПВХ-1",
       "isDefault": true
