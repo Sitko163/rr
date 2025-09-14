@@ -330,6 +330,10 @@
       "value": "ПГ-9",
       "isDefault": true
     },
+            {
+      "value": "ПГ-9С",
+      "isDefault": true
+    },
     {
       "value": "ПМН4",
       "isDefault": true
