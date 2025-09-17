@@ -222,6 +222,10 @@
       "value": "КЗ-6",
       "isDefault": true
     },
+        {
+      "value": "КБЧ-3",
+      "isDefault": true
+    },
     {
       "value": "КОБЧ-2,5",
       "isDefault": true
