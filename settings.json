@@ -181,6 +181,7 @@
     {"value": "2.2-2.4", "isDefault": true},
     {"value": "3.3", "isDefault": true},
     {"value": "3.7", "isDefault": true},
+    {"value": "4.1", "isDefault": true},
     {"value": "4.9", "isDefault": true},
     {"value": "5.8", "isDefault": true},
     {"value": "Оптика", "isDefault": true}
