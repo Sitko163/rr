@@ -168,6 +168,10 @@
       "value": "700",
       "isDefault": true
     },
+       {
+      "value": "900",
+      "isDefault": true
+    },
     {
       "value": "Оптика",
       "isDefault": true
