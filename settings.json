@@ -236,6 +236,10 @@
       "isDefault": true
     },
     {
+      "value": "КБЧ-4,5(Азалия)",
+      "isDefault": true
+    },
+    {
       "value": "КОБЧ-2,5",
       "isDefault": true
     },
@@ -396,11 +400,19 @@
       "isDefault": true
     },
     {
+      "value": "Секира",
+      "isDefault": true
+    },
+    {
       "value": "ТББ-3",
       "isDefault": true
     },
     {
       "value": "ТББЧ-2.5",
+      "isDefault": true
+    },
+    {
+      "value": "ТББЧ-5УЗ",
       "isDefault": true
     },
     {
