@@ -169,6 +169,10 @@
       "isDefault": true
     },
        {
+      "value": "800",
+      "isDefault": true
+    },
+       {
       "value": "900",
       "isDefault": true
     },
