@@ -624,6 +624,10 @@
       "isDefault": true
     },
     {
+      "value": "обеспечение",
+      "isDefault": true
+    },
+    {
       "value": "танк",
       "isDefault": true
     }
