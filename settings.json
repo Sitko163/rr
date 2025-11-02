@@ -47,14 +47,22 @@
   ],
   "droneType": [
     {
-      "value": "КВН",
+      "value": "КВН-16",
       "isDefault": true
     },
     {
-      "value": "КВН-Т",
+      "value": "КВН-16-Т",
       "isDefault": true
     },
-    {
+     {
+      "value": "КВН-23",
+      "isDefault": true
+    },
+      {
+      "value": "КВН-23-Т",
+      "isDefault": true
+    },
+     {
       "value": "Молния-2",
       "isDefault": true
     },
@@ -63,11 +71,11 @@
       "isDefault": true
     },
         {
-      "value": "Молния-2ИИ",
+      "value": "Молния-2 ИИ",
       "isDefault": true
     },
         {
-      "value": "Молния-2ИИТ",
+      "value": "Молния-2ДТ ИИ",
       "isDefault": true
     },
     {
@@ -110,27 +118,35 @@
       "value": "Утка Д",
       "isDefault": true
     },
-    {
+     {
       "value": "Утка Н",
       "isDefault": true
     },
-        {
-      "value": "Бумеранг-10 (День)",
+     {
+      "value": "Бумеранг-10 с АУЦ (День)",
       "isDefault": true
     },
-            {
-      "value": "Бумеранг-10 (Ночь)",
+     {
+      "value": "Бумеранг-10 с АУЦ (Ночь)",
       "isDefault": true
     },
-    {
-      "value": "Х-51",
+     {
+      "value": "Х-51ИК",
       "isDefault": true
     },
-    {
-      "value": "Х-52",
+     {
+      "value": "Х-51ВК",
       "isDefault": true
     },
-    {
+     {
+      "value": "Х-52ИК",
+      "isDefault": true
+    },
+     {
+      "value": "Х-52ВК",
+      "isDefault": true
+    },
+     {
       "value": "Ш-10",
       "isDefault": true
     }
