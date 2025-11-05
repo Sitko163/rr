@@ -363,6 +363,10 @@
       "value": "ОФСП-2.5",
       "isDefault": true
     },
+     {
+      "value": "ПГ-9Вс",
+      "isDefault": true
+    },
     {
       "value": "ПГ-16",
       "isDefault": true
@@ -499,10 +503,6 @@
     },
     {
       "value": "УДЗ",
-      "isDefault": true
-    },
-    {
-      "value": "УДИВ",
       "isDefault": true
     },
     {
