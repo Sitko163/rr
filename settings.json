@@ -318,6 +318,10 @@
         {
       "value": "КОФЗБЧ-3Ф",
       "isDefault": true
+    },    
+     {
+      "value": "ОФБЧ-2Ф",
+      "isDefault": true
     },
     {
       "value": "КОФЗБЧ-4",
