@@ -185,6 +185,10 @@
       "isDefault": true
     },
     {
+      "value": "2.6",
+      "isDefault": true
+    },
+    {
       "value": "3.3 + бустер",
       "isDefault": true
     },
