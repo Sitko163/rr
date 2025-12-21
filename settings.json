@@ -244,6 +244,7 @@
     {"value": "4.1", "isDefault": true},
     {"value": "4.9", "isDefault": true},
     {"value": "5.8", "isDefault": true},
+    {"value": "StarLink", "isDefault": true},
       {
       "value": "3.3 + бустер",
       "isDefault": true
