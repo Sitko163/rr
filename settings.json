@@ -78,6 +78,14 @@
       "value": "Молния-2ДТ ИИ",
       "isDefault": true
     },
+          {
+      "value": "Молния-2-StarLink",
+      "isDefault": true
+    },
+          {
+      "value": "Молния-2ДТ-StarLink",
+      "isDefault": true
+    },
     {
       "value": "ПВХ-1",
       "isDefault": true
@@ -214,6 +222,10 @@
     },
        {
       "value": "900",
+      "isDefault": true
+    },
+    {
+      "value": "StarLink",
       "isDefault": true
     },
     {
@@ -681,6 +693,10 @@
     },
     {
       "value": "обеспечение",
+      "isDefault": true
+    },
+    {
+      "value": "Энергетика",
       "isDefault": true
     },
     {
