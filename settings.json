@@ -325,6 +325,10 @@
       "isDefault": true
     },
     {
+      "value": "ТББ-2",
+      "isDefault": true
+    },
+    {
       "value": "ТББЧ-5",
       "isDefault": true
     },
@@ -370,6 +374,10 @@
     },
     {
       "value": "ОФБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ 3 (пруток-В) ",
       "isDefault": true
     },
     {
@@ -506,6 +514,10 @@
     },
     {
       "value": "СЗ-6М",
+      "isDefault": true
+    },
+     {
+      "value": "ДЗБ-2",
       "isDefault": true
     },
     {
