@@ -609,9 +609,17 @@
       "isDefault": true
     },
     {
-      "value": "Шайба",
+      "value": "ТМ-62ПЗ",
       "isDefault": true
     },
+    {
+      "value": "ТМ-62М",
+      "isDefault": true
+    },    
+    {
+      "value": "Шайба",
+      "isDefault": true
+    },    
     {
       "value": "Шипы",
       "isDefault": true
