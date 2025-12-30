@@ -159,6 +159,14 @@
       "isDefault": true
     },
     {
+      "value": "Сокол-И",
+      "isDefault": true
+    },
+     {
+      "value": "Сокол-ИТ",
+      "isDefault": true
+    },   
+    {
       "value": "Утка Д",
       "isDefault": true
     },
@@ -540,6 +548,10 @@
       "value": "РГН",
       "isDefault": true
     },
+    {
+      "value": "РГО",
+      "isDefault": true
+    },    
     {
       "value": "РКГ-3",
       "isDefault": true
