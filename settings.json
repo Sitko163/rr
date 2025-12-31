@@ -702,6 +702,10 @@
       "value": "ЭДПР",
       "isDefault": true
     }
+    {
+      "value": "Электроспичка",
+      "isDefault": true
+    }    
   ],
   "targetType": [
     {
