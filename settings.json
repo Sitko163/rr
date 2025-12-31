@@ -332,8 +332,12 @@
       "value": "АТАКА-М",
       "isDefault": true
     },
-    {
+        {
       "value": "БЧ 3.3",
+      "isDefault": true
+    },
+    {
+      "value": "БЧТ-2кг",
       "isDefault": true
     },
     {
