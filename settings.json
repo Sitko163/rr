@@ -321,6 +321,10 @@
   ],
   "warhead": [
     {
+      "value": "Без БК",
+      "isDefault": true
+    },
+    {
       "value": "9М115(МЕТИС)",
       "isDefault": true
     },
@@ -642,6 +646,10 @@
     }
   ],
   "fuzeType": [
+    {
+      "value": "Без взрывателя",
+      "isDefault": true
+    },
     {
       "value": "ЗТП 300",
       "isDefault": true
