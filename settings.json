@@ -19,7 +19,7 @@
     {
       "value": "ПВО",
       "isDefault": true
-    },    
+    },
     {
       "value": "Орлан-10",
       "isDefault": true
@@ -166,10 +166,10 @@
       "value": "Сокол-И",
       "isDefault": true
     },
-     {
+    {
       "value": "Сокол-ИТ",
       "isDefault": true
-    },   
+    },
     {
       "value": "Утка Д",
       "isDefault": true
@@ -181,7 +181,7 @@
     {
       "value": "Утка-3 Воробушек",
       "isDefault": true
-    },    
+    },
     {
       "value": "Х-51ВК",
       "isDefault": true
@@ -197,11 +197,11 @@
     {
       "value": "Х-52ИК",
       "isDefault": true
-    }
+    },
     {
       "value": "Х-51П",
       "isDefault": true
-    }
+    },
     {
       "value": "Х-51П-ИК",
       "isDefault": true
@@ -340,14 +340,14 @@
       "value": "АТАКА-М",
       "isDefault": true
     },
-        {
+    {
       "value": "БЧ 3.3",
       "isDefault": true
     },
     {
       "value": "БЧТ-2",
       "isDefault": true
-    },    
+    },
     {
       "value": "БЧТ-3",
       "isDefault": true
@@ -575,7 +575,7 @@
     {
       "value": "РГО",
       "isDefault": true
-    },    
+    },
     {
       "value": "РКГ-3",
       "isDefault": true
@@ -651,11 +651,11 @@
     {
       "value": "ТМ-62М",
       "isDefault": true
-    },    
+    },
     {
       "value": "Шайба",
       "isDefault": true
-    },    
+    },
     {
       "value": "Шипы",
       "isDefault": true
@@ -717,7 +717,7 @@
     {
       "value": "Электроспичка",
       "isDefault": true
-    }    
+    }
   ],
   "targetType": [
     {
