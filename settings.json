@@ -139,6 +139,30 @@
       "isDefault": true
     },
     {
+      "value": "ПВХ-5-15",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-5Т-15",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-5-20",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-5Т-20",
+      "isDefault": true
+    },
+   {
+      "value": "ПВХ-5-22,5",
+      "isDefault": true
+    },  
+    {
+      "value": "ПВХ-5Т-22,5",
+      "isDefault": true
+    },
+    {
       "value": "Пиранья 13 Лайт",
       "isDefault": true
     },
