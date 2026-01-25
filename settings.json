@@ -702,12 +702,23 @@
       "value": "ЗТП 300",
       "isDefault": true
     },
+      "value": "ЗТПм 300",
+      "isDefault": true
+    },    
     {
       "value": "ИНЕРТНЫЙ",
       "isDefault": true
     },
     {
+      "value": "МУВ-4",
+      "isDefault": true
+    },    
+    {
       "value": "МД2",
+      "isDefault": true
+    },
+        {
+      "value": "МД-5",
       "isDefault": true
     },
     {
