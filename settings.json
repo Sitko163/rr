@@ -707,6 +707,10 @@
     {
       "value": "Мод-2",
       "isDefault": true
+    },
+    {
+      "value": "ВОБ",
+      "isDefault": true
     }
   ],
   "fuzeType": [
