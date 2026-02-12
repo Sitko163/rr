@@ -699,6 +699,14 @@
     {
       "value": "Шипы",
       "isDefault": true
+    },
+    {
+      "value": "Мод-1",
+      "isDefault": true
+    },
+    {
+      "value": "Мод-2",
+      "isDefault": true
     }
   ],
   "fuzeType": [
