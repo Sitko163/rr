@@ -703,6 +703,10 @@
     {
       "value": "ВОБ",
       "isDefault": true
+    },
+    {
+      "value": "Клевец",
+      "isDefault": true
     }
   ],
   "fuzeType": [
