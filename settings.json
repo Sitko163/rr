@@ -707,6 +707,10 @@
     {
       "value": "Клевец",
       "isDefault": true
+    },
+    {
+      "value": "Осколочно-фугасный",
+      "isDefault": true
     }
   ],
   "fuzeType": [
