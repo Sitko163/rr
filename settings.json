@@ -295,6 +295,14 @@
     {
       "value": "StarLink",
       "isDefault": true
+    },
+    {
+      "value": "1300-1500",
+      "isDefault": true
+    },
+    {
+      "value": "1600-1800",
+      "isDefault": true
     }
   ],
   "videoTransmitter": [
@@ -348,6 +356,14 @@
     },
     {
       "value": "StarLink",
+      "isDefault": true
+    },
+    {
+      "value": "1300-1500",
+      "isDefault": true
+    },
+    {
+      "value": "1600-1800",
       "isDefault": true
     }
   ],
@@ -780,6 +796,10 @@
     },
     {
       "value": "Электроспичка",
+      "isDefault": true
+    },
+    {
+      "value": "УЗ-2",
       "isDefault": true
     }
   ],
