@@ -117,6 +117,10 @@
     {
       "value": "Ш-10",
       "isDefault": true
+    },
+    {
+      "value": "Х-51П",
+      "isDefault": true
     }
   ],
   "controlType": [
