@@ -229,6 +229,14 @@
     {
       "value": "Х-52ИК",
       "isDefault": true
+    },
+    {
+      "value": "Клин",
+      "isDefault": true
+    },
+    {
+      "value": "Клин Н",
+      "isDefault": true
     }
   ],
   "controlType": [
