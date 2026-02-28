@@ -967,6 +967,10 @@
       "isDefault": true
     },
     {
+      "value": "добивание",
+      "isDefault": true
+    },
+    {
       "value": "уничтожено",
       "isDefault": true
     }
