@@ -195,7 +195,11 @@
       "isDefault": true
     },
     {
-      "value": "Скальпель",
+      "value": "Скальпель М",
+      "isDefault": true
+    },
+     {
+      "value": "Скальпель МН",
       "isDefault": true
     },
     {
