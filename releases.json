@@ -1,0 +1,12 @@
+{
+  "latest_version": "v6.0.0",
+  "latest_apk_url": "https://github.com/Sitko163/report/releases/download/v6.0.0/app-release-v6.0.0.apk",
+  "releases": [
+    {
+      "version": "v6.0.0",
+      "apk_url": "https://github.com/Sitko163/report/releases/download/v6.0.0/app-release-v6.0.0.apk",
+      "description": "Версия 6.0.0",
+      "date": "2026-03-02"
+    }
+  ]
+}
