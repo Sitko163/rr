@@ -1,0 +1,554 @@
+{
+  "subdivision": [
+    {
+      "value": "Тяжелые дроны",
+      "isDefault": true
+    }
+  ],
+  "droneType": [
+    {
+      "value": "OG-10UTP Леший",
+      "isDefault": true
+    },
+    {
+      "value": "БАС Паук-30",
+      "isDefault": true
+    },
+    {
+      "value": "БВС \"Черепаха-2С\"",
+      "isDefault": true
+    },
+    {
+      "value": "БВС \"Черепаха-2Т\"",
+      "isDefault": true
+    },
+    {
+      "value": "FPV-дрон \"Упырь-18\" дневной",
+      "isDefault": true
+    },
+    {
+      "value": "FPV-дрон \"Секира 19 Ц\"",
+      "isDefault": true
+    },
+    {
+      "value": "FPV-дрон \"Бумеранг-10\" с АУЦ и тепловизионной камерой",
+      "isDefault": true
+    },
+    {
+      "value": "FPV-дрон \"Бумеранг-17\" с АУЦ",
+      "isDefault": true
+    },
+    {
+      "value": "FPV-дрон «НТ-15»",
+      "isDefault": true
+    },
+    {
+      "value": "FPV-дрон \"1-570 v.2\"",
+      "isDefault": true
+    },
+    {
+      "value": "Заноза",
+      "isDefault": true
+    },
+    {
+      "value": "Ночная ведьма",
+      "isDefault": true
+    },
+    {
+      "value": "БпЛА КТ DJI \"Mavic-3T\"",
+      "isDefault": true
+    },
+    {
+      "value": "БпЛА КТ DJI \"Mavic-3\" pro",
+      "isDefault": true
+    },
+    {
+      "value": "FPV-перехватчик \"РОЙ К10\"",
+      "isDefault": true
+    },
+    {
+      "value": "FPV-перехватчик \"РОЙ К10Т\"",
+      "isDefault": true
+    },
+    {
+      "value": "БпЛА Вихрь",
+      "isDefault": true
+    },
+    {
+      "value": "БпЛА \"Z-16ВК\"",
+      "isDefault": true
+    },
+    {
+      "value": "БпЛА \"Z-16ИК\"",
+      "isDefault": true
+    },
+    {
+      "value": "БпЛА \"Z-16-O\"",
+      "isDefault": true
+    },
+    {
+      "value": "БпЛА \"Z-16-OИК\"",
+      "isDefault": true
+    },
+    {
+      "value": "КВО",
+      "isDefault": true
+    },
+    {
+      "value": "БВС \"ПрОвод\" 15-25",
+      "isDefault": true
+    },
+    {
+      "value": "FPV-перехватчик \"Елка\"",
+      "isDefault": true
+    }
+  ],
+  "controlType": [
+    {
+      "value": "2.1",
+      "isDefault": true
+    },
+    {
+      "value": "2.2",
+      "isDefault": true
+    },
+    {
+      "value": "2.3",
+      "isDefault": true
+    },
+    {
+      "value": "2.4",
+      "isDefault": true
+    },
+    {
+      "value": "2.4 + бустер",
+      "isDefault": true
+    },
+    {
+      "value": "2.5",
+      "isDefault": true
+    },
+    {
+      "value": "2.6",
+      "isDefault": true
+    },
+    {
+      "value": "3.3 + бустер",
+      "isDefault": true
+    },
+    {
+      "value": "500",
+      "isDefault": true
+    },
+    {
+      "value": "600",
+      "isDefault": true
+    },
+    {
+      "value": "700",
+      "isDefault": true
+    },
+    {
+      "value": "800",
+      "isDefault": true
+    },
+    {
+      "value": "900",
+      "isDefault": true
+    },
+    {
+      "value": "кузнечик",
+      "isDefault": true
+    },
+    {
+      "value": "Оптика",
+      "isDefault": true
+    },
+    {
+      "value": "StarLink",
+      "isDefault": true
+    },
+    {
+      "value": "1300-1500",
+      "isDefault": true
+    },
+    {
+      "value": "1600-1800",
+      "isDefault": true
+    }
+  ],
+  "videoTransmitter": [
+    {
+      "value": "1.2",
+      "isDefault": true
+    },
+    {
+      "value": "1.7",
+      "isDefault": true
+    },
+    {
+      "value": "2.2",
+      "isDefault": true
+    },
+    {
+      "value": "2.2-2.4",
+      "isDefault": true
+    },
+    {
+      "value": "2.4",
+      "isDefault": true
+    },
+    {
+      "value": "3.3",
+      "isDefault": true
+    },
+    {
+      "value": "3.3 + бустер",
+      "isDefault": true
+    },
+    {
+      "value": "3.3 + МШУ + Фильтр",
+      "isDefault": true
+    },
+    {
+      "value": "3.7",
+      "isDefault": true
+    },
+    {
+      "value": "4.1",
+      "isDefault": true
+    },
+    {
+      "value": "4.9",
+      "isDefault": true
+    },
+    {
+      "value": "5.8",
+      "isDefault": true
+    },
+    {
+      "value": "Оптика",
+      "isDefault": true
+    },
+    {
+      "value": "StarLink",
+      "isDefault": true
+    },
+    {
+      "value": "1300-1500",
+      "isDefault": true
+    },
+    {
+      "value": "1600-1800",
+      "isDefault": true
+    }
+  ],
+  "warhead": [
+    {
+      "value": "ОФСП-2,5-Б133",
+      "isDefault": true
+    },
+    {
+      "value": "ОФСП-1,7-Б133",
+      "isDefault": true
+    },
+    {
+      "value": "ОФСП-0,8-Б133",
+      "isDefault": true
+    },
+    {
+      "value": "ОФСП-0,5-Б133",
+      "isDefault": true
+    },
+    {
+      "value": "82-мм мина ОФ",
+      "isDefault": true
+    },
+    {
+      "value": "Ручная граната РКГ-3ЕМ",
+      "isDefault": true
+    },
+    {
+      "value": "73-мм граната ПГ-9С",
+      "isDefault": true
+    },
+    {
+      "value": "58,3-мм граната ПГ-16",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-9",
+      "isDefault": true
+    },
+    {
+      "value": "КОБЧ-2,5 \"Рапира\"",
+      "isDefault": true
+    },
+    {
+      "value": "Изделие КБЧ-4,5 «Азалия»",
+      "isDefault": true
+    },
+    {
+      "value": "КОФЗБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "КЗБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "КОТБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-3 \"Пруток-В\" с взрывателем УЗ-2 (ВМ-КП)",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-2 \"Пруток\"",
+      "isDefault": true
+    },
+    {
+      "value": "ТББ-3",
+      "isDefault": true
+    },
+    {
+      "value": "ТББЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ТББ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ «Шайба ЭДП-Р»",
+      "isDefault": true
+    },
+    {
+      "value": "КБЭ «Капля ЭДП-Р»",
+      "isDefault": true
+    },
+    {
+      "value": "Комплект снаряжения УДИВ-ЭД",
+      "isDefault": true
+    },
+    {
+      "value": "Комплект снаряжения УДИВ-ДД",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-2Ф",
+      "isDefault": true
+    },
+    {
+      "value": "СВУ",
+      "isDefault": true
+    },
+    {
+      "value": "ТБЧ-2,5",
+      "isDefault": true
+    },
+    {
+      "value": "КОЗБЧ-1,8-Б795",
+      "isDefault": true
+    },
+    {
+      "value": "БКФ-ПТАБ-2,5КО",
+      "isDefault": true
+    },
+    {
+      "value": "ТМ-72",
+      "isDefault": true
+    },
+    {
+      "value": "ТМ62п3",
+      "isDefault": true
+    },
+    {
+      "value": "ТМ-62М",
+      "isDefault": true
+    }
+  ],
+  "fuzeType": [
+    {
+      "value": "МУВ-4",
+      "isDefault": true
+    },
+    {
+      "value": "МД-2",
+      "isDefault": true
+    },
+    {
+      "value": "МД-5М",
+      "isDefault": true
+    },
+    {
+      "value": "ЭДП-р",
+      "isDefault": true
+    }
+  ],
+  "targetType": [
+    {
+      "value": "автомобильная техника",
+      "isDefault": true
+    },
+    {
+      "value": "Баба Яга",
+      "isDefault": true
+    },
+    {
+      "value": "боевая бронированная машина",
+      "isDefault": true
+    },
+    {
+      "value": "боевая машина пехоты",
+      "isDefault": true
+    },
+    {
+      "value": "бронетранспортер",
+      "isDefault": true
+    },
+    {
+      "value": "БпЛА",
+      "isDefault": true
+    },
+    {
+      "value": "буксируемое артиллерийское орудие",
+      "isDefault": true
+    },
+    {
+      "value": "живая сила 200",
+      "isDefault": true
+    },
+    {
+      "value": "живая сила 300",
+      "isDefault": true
+    },
+    {
+      "value": "зенитная установка",
+      "isDefault": true
+    },
+    {
+      "value": "инженерная техника",
+      "isDefault": true
+    },
+    {
+      "value": "инженерное сооружение",
+      "isDefault": true
+    },
+    {
+      "value": "КШМ",
+      "isDefault": true
+    },
+    {
+      "value": "макет",
+      "isDefault": true
+    },
+    {
+      "value": "миномет",
+      "isDefault": true
+    },
+    {
+      "value": "мототехника",
+      "isDefault": true
+    },
+    {
+      "value": "Наземные дроны",
+      "isDefault": true
+    },
+    {
+      "value": "обеспечение",
+      "isDefault": true
+    },
+    {
+      "value": "огневая позиция",
+      "isDefault": true
+    },
+    {
+      "value": "огневые средства",
+      "isDefault": true
+    },
+    {
+      "value": "пункт временной дислокации",
+      "isDefault": true
+    },
+    {
+      "value": "пункт управления",
+      "isDefault": true
+    },
+    {
+      "value": "ПТРК",
+      "isDefault": true
+    },
+    {
+      "value": "ПУ БпЛА",
+      "isDefault": true
+    },
+    {
+      "value": "РЛС",
+      "isDefault": true
+    },
+    {
+      "value": "РСЗО",
+      "isDefault": true
+    },
+    {
+      "value": "РЭБ",
+      "isDefault": true
+    },
+    {
+      "value": "РЭР",
+      "isDefault": true
+    },
+    {
+      "value": "самоходное артиллерийское орудие",
+      "isDefault": true
+    },
+    {
+      "value": "система связи",
+      "isDefault": true
+    },
+    {
+      "value": "склад БК",
+      "isDefault": true
+    },
+    {
+      "value": "склад ГСМ",
+      "isDefault": true
+    },
+    {
+      "value": "средства жизнеобеспечения",
+      "isDefault": true
+    },
+    {
+      "value": "танк",
+      "isDefault": true
+    },
+    {
+      "value": "Энергетика",
+      "isDefault": true
+    }
+  ],
+  "result": [
+    {
+      "value": "не поражено",
+      "isDefault": true
+    },
+    {
+      "value": "поражено",
+      "isDefault": true
+    },
+    {
+      "value": "добивание",
+      "isDefault": true
+    },
+    {
+      "value": "уничтожено",
+      "isDefault": true
+    },
+    {
+      "value": "Доставка",
+      "isDefault": true
+    }
+  ]
+}
