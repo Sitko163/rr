@@ -747,6 +747,10 @@
     {
       "value": "Осколочно-фугасный",
       "isDefault": true
+    },
+    {
+      "value": "РКБ-250 ЗАБ-2,5 (М)",
+      "isDefault": true
     }
   ],
   "fuzeType": [
