@@ -1,7 +1,23 @@
 {
   "subdivision": [
     {
-      "value": "Тяжелые дроны",
+      "value": "1 группа ТД",
+      "isDefault": true
+    },
+    {
+      "value": "2 группа ТД",
+      "isDefault": true
+    },
+    {
+      "value": "3 группа ТД",
+      "isDefault": true
+    },
+    {
+      "value": "4 группа ТД",
+      "isDefault": true
+    },
+    {
+      "value": "разведывательно-ударная группа ТД",
       "isDefault": true
     }
   ],
@@ -370,6 +386,10 @@
     }
   ],
   "fuzeType": [
+    {
+      "value": "штатный",
+      "isDefault": true
+    },
     {
       "value": "МУВ-4",
       "isDefault": true
