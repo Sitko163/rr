@@ -821,6 +821,10 @@
     {
       "value": "УЗ-2",
       "isDefault": true
+    },
+    {
+      "value": "ПИ-Клевер",
+      "isDefault": true
     }
   ],
   "targetType": [
