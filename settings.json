@@ -425,10 +425,6 @@
       "isDefault": true
     },
     {
-      "value": "КЗБЧ-5",
-      "isDefault": true
-    },
-    {
       "value": "КОБЭ-3М",
       "isDefault": true
     },
@@ -726,6 +722,10 @@
     },
     {
       "value": "РКБ-250 ЗАБ-2,5 (М)",
+      "isDefault": true
+    },
+    {
+      "value": "КЗБЧ-5",
       "isDefault": true
     }
   ],
