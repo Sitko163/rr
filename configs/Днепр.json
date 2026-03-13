@@ -751,6 +751,10 @@
     {
       "value": "РКБ-250 ЗАБ-2,5 (М)",
       "isDefault": true
+    },
+    {
+      "value": "КЗБЧ-5",
+      "isDefault": true
     }
   ],
   "fuzeType": [
