@@ -118,6 +118,38 @@
     {"value": "КБЧ-3", "isDefault": true},
     {"value": "КБЧ-4,5(Азалия)", "isDefault": true},
     {"value": "КБЧ-4,5(Атака)", "isDefault": true},
-    {"value": "КЗ-6"}
+    {"value": "КЗ-6", "isDefault": true}
+  ],
+  "fuzeType": [
+    {"value": "штатный", "isDefault": true},
+    {"value": "МУВ-4", "isDefault": true},
+    {"value": "МД-2", "isDefault": true},
+    {"value": "МД-5М", "isDefault": true},
+    {"value": "ЭДП-р", "isDefault": true}
+  ],
+  "targetType": [
+    {"value": "автомобильная техника", "isDefault": true},
+    {"value": "боевая бронированная машина", "isDefault": true},
+    {"value": "БпЛА", "isDefault": true},
+    {"value": "живая сила", "isDefault": true},
+    {"value": "зенитная установка", "isDefault": true},
+    {"value": "инженерная техника", "isDefault": true},
+    {"value": "КШМ", "isDefault": true},
+    {"value": "миномет", "isDefault": true},
+    {"value": "огневая позиция", "isDefault": true},
+    {"value": "пункт управления", "isDefault": true},
+    {"value": "ПТРК", "isDefault": true},
+    {"value": "РЛС", "isDefault": true},
+    {"value": "РСЗО", "isDefault": true},
+    {"value": "РЭБ", "isDefault": true},
+    {"value": "самоходное артиллерийское орудие", "isDefault": true},
+    {"value": "танк", "isDefault": true}
+  ],
+  "result": [
+    {"value": "не поражено", "isDefault": true},
+    {"value": "поражено", "isDefault": true},
+    {"value": "добивание", "isDefault": true},
+    {"value": "уничтожено", "isDefault": true},
+    {"value": "Доставка", "isDefault": true}
   ]
 }
