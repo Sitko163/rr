@@ -1,51 +1,23 @@
 {
   "subdivision": [
     {
-      "value": "FPV К.Т. -",
+      "value": "ИГ FPV К.Т. -",
       "isDefault": true
     },
     {
-      "value": "FPV С.Т. -",
+      "value": "ИГ FPV С.Т. -",
       "isDefault": true
     },
     {
-      "value": "Lancet-",
+      "value": "ИГ в. разведки -",
       "isDefault": true
     },
     {
-      "value": "ПВО БЯ",
+      "value": "ИГ против. БпЛА -",
       "isDefault": true
     },
     {
-      "value": "ПВО",
-      "isDefault": true
-    },
-    {
-      "value": "Орлан-10",
-      "isDefault": true
-    },
-    {
-      "value": "Разведывательные БПЛА",
-      "isDefault": true
-    },
-    {
-      "value": "РЭР-",
-      "isDefault": true
-    },
-    {
-      "value": "Скальпель-",
-      "isDefault": true
-    },
-    {
-      "value": "Supercam-",
-      "isDefault": true
-    },
-    {
-      "value": "Черный глаз-",
-      "isDefault": true
-    },
-    {
-      "value": "Zala-",
+      "value": "ИГ развед-ударная -",
       "isDefault": true
     }
   ],
