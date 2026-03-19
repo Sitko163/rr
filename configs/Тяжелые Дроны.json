@@ -293,6 +293,10 @@
       "isDefault": true
     },
     {
+      "value": "ПГ-7с",
+      "isDefault": true
+    },
+    {
       "value": "ПГ-9",
       "isDefault": true
     },
@@ -406,6 +410,14 @@
       "value": "МД-5М",
       "isDefault": true
     },
+    {
+      "value": "УДИВ",
+      "isDefault": true
+    },
+    {
+      "value": "УДИВ-ДД",
+      "isDefault": true
+    },    
     {
       "value": "ЭДП-р",
       "isDefault": true
