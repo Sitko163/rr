@@ -83,10 +83,18 @@
       "isDefault": true
     },
     {
-      "value": "ПрОвод-15",
+      "value": "ПрОвод-25",
       "isDefault": true
     },
     {
+      "value": "Велес-25",
+      "isDefault": true
+    },
+    {
+      "value": "РусакО-25",
+      "isDefault": true
+    },
+     {
       "value": "ВТ-40/2",
       "isDefault": true
     },
