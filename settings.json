@@ -209,6 +209,18 @@
     {
       "value": "Клин Н",
       "isDefault": true
+    },
+    {
+      "value": "ПрОвод-25",
+      "isDefault": true
+    },
+    {
+      "value": "Велес-25",
+      "isDefault": true
+    },
+    {
+      "value": "РусакО-25",
+      "isDefault": true
     }
   ],
   "controlType": [
