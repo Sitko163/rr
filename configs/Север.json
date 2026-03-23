@@ -246,7 +246,7 @@
       "value": "Х-52ИК",
       "isDefault": true
     },
-   {
+    {
       "value": "Х-51П",
       "isDefault": true
     },
@@ -254,17 +254,17 @@
       "value": "Х-51П-ИК",
       "isDefault": true
     },
-   {
+    {
       "value": "Клин",
       "isDefault": true
     },
     {
       "value": "Клин Н",
       "isDefault": true
-   },
+    },
     {
       "value": "Рой f1",
-      "isDefault": true
+     "isDefault": true
     },
     {
       "value": "ПрОвод-25",
@@ -286,6 +286,7 @@
       "value": "Рой f1T",
       "isDefault": true
     }
+  ],
   "controlType": [
     {
       "value": "2.1",
