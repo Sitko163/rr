@@ -43,11 +43,19 @@
       "isDefault": true
     },
     {
-      "value": "Кощей-30",
+      "value": "БАС Кощей-30",
       "isDefault": true
     },
     {
-      "value": "Кощей-40",
+      "value": "БАС Кощей-40",
+      "isDefault": true
+    },
+    {
+      "value": "БАС П-40-30",
+      "isDefault": true
+    },
+    {
+      "value": "БАС Грузовик М-500",
       "isDefault": true
     },
     {
