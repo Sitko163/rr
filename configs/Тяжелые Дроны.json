@@ -277,19 +277,19 @@
   ],
   "warhead": [
     {
-      "value": "ОФСП-2,5-Б133",
+      "value": "ОФСП-2,5",
       "isDefault": true
     },
     {
-      "value": "ОФСП-1,7-Б133",
+      "value": "ОФСП-1,7",
       "isDefault": true
     },
     {
-      "value": "ОФСП-0,8-Б133",
+      "value": "ОФСП-0,8",
       "isDefault": true
     },
     {
-      "value": "ОФСП-0,5-Б133",
+      "value": "ОФСП-0,5",
       "isDefault": true
     },
     {
