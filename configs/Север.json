@@ -273,8 +273,7 @@
     {
       "value": "Рой f1T",
       "isDefault": true
-    }
-  ],
+    },
   "controlType": [
     {
       "value": "2.1",
@@ -433,6 +432,10 @@
       "isDefault": true
     },
     {
+      "value": "БЧС-8 КОМ",
+      "isDefault": true
+    },
+    {
       "value": "БЧТ-2",
       "isDefault": true
     },
@@ -478,6 +481,10 @@
     },
     {
       "value": "КБЧ-4,5(Атака)",
+      "isDefault": true
+    },
+    {
+      "value": "КБЧ-4,5(Секира)",
       "isDefault": true
     },
     {
@@ -542,6 +549,10 @@
     },
     {
       "value": "ОКФОЛ-3,5",
+      "isDefault": true
+    },
+    {
+      "value": "ОРГ-1",
       "isDefault": true
     },
     {
@@ -610,6 +621,18 @@
     },
     {
       "value": "ПГ-7ВС",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-7Л",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-7М",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-7Р",
       "isDefault": true
     },
     {
