@@ -321,6 +321,10 @@
       "isDefault": true
     },
     {
+      "value": "Без БЧ",
+      "isDefault": true
+    },
+    {
       "value": "КЗСП 0,5",
       "isDefault": true
     },
