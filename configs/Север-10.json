@@ -83,18 +83,10 @@
       "isDefault": true
     },
     {
-      "value": "ПрОвод-25",
+      "value": "ПрОвод-15",
       "isDefault": true
     },
     {
-      "value": "Велес-25",
-      "isDefault": true
-    },
-    {
-      "value": "РусакО-25",
-      "isDefault": true
-    },
-     {
       "value": "ВТ-40/2",
       "isDefault": true
     },
@@ -210,10 +202,6 @@
       "value": "Скальпель МН",
       "isDefault": true
     },
-     {
-      "value": "Ш-10",
-      "isDefault": true
-    },
     {
       "value": "Сокол-И",
       "isDefault": true
@@ -250,30 +238,15 @@
       "value": "Х-52ИК",
       "isDefault": true
     },
-   {
-      "value": "Х-51П",
-      "isDefault": true
-    },
     {
-      "value": "Х-51П-ИК",
-      "isDefault": true
-    },
-   {
       "value": "Клин",
       "isDefault": true
     },
     {
       "value": "Клин Н",
       "isDefault": true
-   },
-    {
-      "value": "Рой f1",
-      "isDefault": true
-    },
-    {
-      "value": "Рой f1T",
-      "isDefault": true
-    },
+    }
+  ],
   "controlType": [
     {
       "value": "2.1",
@@ -432,10 +405,6 @@
       "isDefault": true
     },
     {
-      "value": "БЧС-8 КОМ",
-      "isDefault": true
-    },
-    {
       "value": "БЧТ-2",
       "isDefault": true
     },
@@ -449,10 +418,6 @@
     },
     {
       "value": "ДКРП-4",
-      "isDefault": true
-    },
-    {
-      "value": "ФСП-4",
       "isDefault": true
     },
     {
@@ -481,10 +446,6 @@
     },
     {
       "value": "КБЧ-4,5(Атака)",
-      "isDefault": true
-    },
-    {
-      "value": "КБЧ-4,5(Секира)",
       "isDefault": true
     },
     {
@@ -549,10 +510,6 @@
     },
     {
       "value": "ОКФОЛ-3,5",
-      "isDefault": true
-    },
-    {
-      "value": "ОРГ-1",
       "isDefault": true
     },
     {
@@ -621,18 +578,6 @@
     },
     {
       "value": "ПГ-7ВС",
-      "isDefault": true
-    },
-    {
-      "value": "ПГ-7Л",
-      "isDefault": true
-    },
-    {
-      "value": "ПГ-7М",
-      "isDefault": true
-    },
-    {
-      "value": "ПГ-7Р",
       "isDefault": true
     },
     {
@@ -804,11 +749,35 @@
       "isDefault": true
     },
     {
-      "value": "ОГ-9М",
+      "value": "ОРГ-1",
       "isDefault": true
     },
-   {
+    {
       "value": "РКБ-250 ЗАБ-2,5 (М)",
+      "isDefault": true
+    },
+    {
+      "value": "КЗБЧ-5",
+      "isDefault": true
+    },
+	 {
+      "value": "ПГ-7М",
+      "isDefault": true
+    },
+	 {
+      "value": "ПГ-7Л",
+      "isDefault": true
+    },
+	 {
+      "value": "ТББЧ-2,5",
+      "isDefault": true
+    },
+	 {
+      "value": "ОФБЧ-0,5",
+      "isDefault": true
+    },
+	{
+      "value": "КБЧ-4,5(Секира)",
       "isDefault": true
     }
   ],
@@ -887,6 +856,10 @@
     },
     {
       "value": "ПИ-Клевер",
+      "isDefault": true
+    },
+    {
+      "value": "УЗ-1",
       "isDefault": true
     }
   ],
