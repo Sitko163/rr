@@ -1,51 +1,23 @@
 {
   "subdivision": [
     {
-      "value": "FPV К.Т. -",
+      "value": "ИГ FPV К.Т. -",
       "isDefault": true
     },
     {
-      "value": "FPV С.Т. -",
+      "value": "ИГ FPV С.Т. -",
       "isDefault": true
     },
     {
-      "value": "Lancet-",
+      "value": "ИГ в. разведки -",
       "isDefault": true
     },
     {
-      "value": "ПВО БЯ",
+      "value": "ИГ против. БпЛА -",
       "isDefault": true
     },
     {
-      "value": "ПВО",
-      "isDefault": true
-    },
-    {
-      "value": "Орлан-10",
-      "isDefault": true
-    },
-    {
-      "value": "Разведывательные БПЛА",
-      "isDefault": true
-    },
-    {
-      "value": "РЭР-",
-      "isDefault": true
-    },
-    {
-      "value": "Скальпель-",
-      "isDefault": true
-    },
-    {
-      "value": "Supercam-",
-      "isDefault": true
-    },
-    {
-      "value": "Черный глаз-",
-      "isDefault": true
-    },
-    {
-      "value": "Zala-",
+      "value": "ИГ развед-ударная -",
       "isDefault": true
     }
   ],
@@ -143,14 +115,6 @@
       "isDefault": true
     },
     {
-      "value": "ПВХ-5",
-      "isDefault": true
-    },
-    {
-      "value": "ПВХ-5Т",
-      "isDefault": true
-    },
-    {
       "value": "ПВХ-5-15",
       "isDefault": true
     },
@@ -244,6 +208,26 @@
     },
     {
       "value": "Клин Н",
+      "isDefault": true
+    },
+    {
+      "value": "ПрОвод-25",
+      "isDefault": true
+    },
+    {
+      "value": "Велес-15 ВОЛС (25км)Д",
+      "isDefault": true
+    },
+    {
+      "value": "РусакО-25",
+      "isDefault": true
+    }
+    {
+      "value": "Велес-10",
+      "isDefault": true
+    }
+    {
+      "value": "Воган-15Т-ВОЛС (25км)",
       "isDefault": true
     }
   ],
@@ -368,6 +352,10 @@
     },
     {
       "value": "5.8",
+      "isDefault": true
+    },
+    {
+      "value": "6.1",
       "isDefault": true
     },
     {
@@ -629,7 +617,7 @@
       "isDefault": true
     },
     {
-      "value": "ПТУР 9М114",
+      "value": "9М114Ф",
       "isDefault": true
     },
     {
@@ -745,11 +733,7 @@
       "isDefault": true
     },
     {
-      "value": "Осколочно-фугасный",
-      "isDefault": true
-    },
-    {
-      "value": "ОРГ-1",
+      "value": "БЧ КВН НГ-1",
       "isDefault": true
     },
     {
