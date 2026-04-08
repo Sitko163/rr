@@ -245,6 +245,22 @@
     {
       "value": "Клин Н",
       "isDefault": true
+    },
+	 {
+      "value": "ПрОвод-25",
+      "isDefault": true
+    },
+	 {
+      "value": "Велес-15 ВОЛОС (25км)Д",
+      "isDefault": true
+    },
+	{
+      "value": "Воган-15",
+      "isDefault": true
+    },
+	{
+      "value": "Воган-15Т",
+      "isDefault": true
     }
   ],
   "controlType": [
@@ -778,6 +794,14 @@
     },
 	{
       "value": "КБЧ-4,5(Секира)",
+      "isDefault": true
+    },
+	{
+      "value": "ПГ-7Р",
+      "isDefault": true
+    },
+	{
+      "value": "БЧС-8КОМ",
       "isDefault": true
     }
   ],
