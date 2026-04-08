@@ -747,6 +747,10 @@
     {
       "value": "КЗБЧ-5",
       "isDefault": true
+    },
+    {
+      "value": "ЗБЧ-5",
+      "isDefault": true
     }
   ],
   "fuzeType": [
