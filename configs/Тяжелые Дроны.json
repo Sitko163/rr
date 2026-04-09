@@ -26,6 +26,10 @@
       "value": "OG-10UTP Леший",
       "isDefault": true
     },
+     {
+      "value": "Леший 2",
+      "isDefault": true
+    },
     {
       "value": "БАС Паук-30",
       "isDefault": true
@@ -39,7 +43,11 @@
       "isDefault": true
     },
     {
-      "value": "FPV-дрон \"Упырь-18\" дневной",
+      "value": "FPV-дрон \"Упырь-18\"День",
+      "isDefault": true
+    },
+    {
+      "value": "FPV-дрон \"Упырь-18\" Ночь",
       "isDefault": true
     },
     {
@@ -55,7 +63,7 @@
       "isDefault": true
     },
     {
-      "value": "ВТ-40/2 ночь",
+      "value": "ВТ-40/2 Ночь",
       "isDefault": true
     },
     {
@@ -71,11 +79,11 @@
       "isDefault": true
     },
     {
-      "value": "FPV-дрон \"Бумеранг-10\" с АУЦ (День)",
+      "value": "Бумеранг-10" с АУЦ (День)",
       "isDefault": true
     },
     {
-      "value": "FPV-дрон \"Бумеранг-10\" с АУЦ (Ночь)",
+      "value": "Бумеранг-10" с АУЦ (Ночь)",
       "isDefault": true
     },
     {
@@ -87,7 +95,7 @@
       "isDefault": true
     },
     {
-      "value": "FPV-дрон \"1-570 v.2\"",
+      "value": "1-570 v.2",
       "isDefault": true
     },
     {
@@ -289,19 +297,19 @@
   ],
   "warhead": [
     {
-      "value": "ОФСП-2,5",
+      "value": "ОФСП-2.5",
       "isDefault": true
     },
     {
-      "value": "ОФСП-1,7",
+      "value": "ОФСП-1.7",
       "isDefault": true
     },
     {
-      "value": "ОФСП-0,8",
+      "value": "ОФСП-0.8",
       "isDefault": true
     },
     {
-      "value": "ОФСП-0,5",
+      "value": "ОФСП-0.5",
       "isDefault": true
     },
     {
@@ -309,15 +317,15 @@
       "isDefault": true
     },
     {
-      "value": "Ручная граната РКГ-3ЕМ",
+      "value": "РКГ-3ЕМ",
       "isDefault": true
     },
     {
-      "value": "73-мм граната ПГ-9С",
+      "value": "ПГ-9С",
       "isDefault": true
     },
     {
-      "value": "58,3-мм граната ПГ-16",
+      "value": "ПГ-16",
       "isDefault": true
     },
     {
@@ -405,7 +413,7 @@
       "isDefault": true
     },
     {
-      "value": "ТБЧ-2,5",
+      "value": "ТБЧ-2.5",
       "isDefault": true
     },
     {
@@ -451,7 +459,7 @@
       "isDefault": true
     },
     {
-      "value": "УДИВ-ДД",
+      "value": "УДИВ-ДД+МД-5М",
       "isDefault": true
     },    
     {
