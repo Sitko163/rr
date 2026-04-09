@@ -461,7 +461,11 @@
     {
       "value": "УДИВ-ДД+МД-5М",
       "isDefault": true
-    },    
+    },
+    {
+      "value": "УДИВ-ДД",
+      "isDefault": true
+    },  
     {
       "value": "ЭДП-р",
       "isDefault": true
