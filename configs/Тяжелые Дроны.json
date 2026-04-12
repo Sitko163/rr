@@ -630,6 +630,10 @@
       "value": "уничтожено",
       "isDefault": true
     },
+     {
+      "value": "успешно",
+      "isDefault": true
+    },
     {
       "value": "Доставка",
       "isDefault": true
