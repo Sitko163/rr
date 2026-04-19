@@ -921,6 +921,10 @@
       "isDefault": true
     },
     {
+      "value": "доставка",
+      "isDefault": true
+    },
+    {
       "value": "живая сила 200",
       "isDefault": true
     },
@@ -1048,6 +1052,14 @@
     },
     {
       "value": "уничтожено",
+      "isDefault": true
+    },
+    {
+      "value": "успешно",
+      "isDefault": true
+    },
+    {
+      "value": "не успешно",
       "isDefault": true
     }
   ]
