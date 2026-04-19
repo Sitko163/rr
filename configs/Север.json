@@ -273,8 +273,9 @@
     {
       "value": "Рой f1T",
       "isDefault": true
-    ],
-    "controlType": [
+ }
+  ],
+  "controlType": [
     {
       "value": "2.1",
       "isDefault": true
