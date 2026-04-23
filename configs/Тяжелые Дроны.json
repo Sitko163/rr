@@ -235,6 +235,10 @@
       "isDefault": true
     },
     {
+      "value": "ROI",
+      "isDefault": true
+    },
+    {
       "value": "1.7",
       "isDefault": true
     },
