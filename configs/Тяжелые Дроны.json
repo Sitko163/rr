@@ -643,6 +643,10 @@
       "isDefault": true
     },
     {
+      "value": "не успешно",
+      "isDefault": true
+    },
+    {
       "value": "Доставка",
       "isDefault": true
     }
