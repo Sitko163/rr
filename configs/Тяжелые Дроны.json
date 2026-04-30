@@ -639,11 +639,11 @@
       "isDefault": true
     },
      {
-      "value": "успешно",
+      "value": "не успешно",
       "isDefault": true
     },
-    {
-      "value": "не успешно",
+     {
+      "value": "успешно",
       "isDefault": true
     },
     {
