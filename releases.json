@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.1",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.1/app-release-v6.0.1.apk",
+  "latest_version": "v6.0.5",
+  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.5/app-release-v6.0.5.apk",
   "releases": [
+    {
+      "version": "v6.0.5",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.5/app-release-v6.0.5.apk",
+      "description": "Исправление добавления видео при редактировании отчёта",
+      "date": "2026-05-16"
+    },
     {
       "version": "v6.0.1",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.1/app-release-v6.0.1.apk",
@@ -13,6 +19,18 @@
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.0/app-release-v6.0.0.apk",
       "description": "Версия 6.0.0",
       "date": "2026-03-02"
+    },
+    {
+      "version": "v5.0.7",
+      "apk_url": "https://github.com/Sitko163/report/releases/download/v5.0.7/app-release-v5.0.7.apk",
+      "description": "Добавлена функция отслеживания количества дронов, исправлены ошибки обновления",
+      "date": "2025-01-27"
+    },
+    {
+      "version": "v5.0.6",
+      "apk_url": "https://github.com/Sitko163/report/releases/download/v5.0.6/app-release-v5.0.6.apk",
+      "description": "Предыдущая стабильная версия",
+      "date": "2025-01-26"
     }
   ]
 }
