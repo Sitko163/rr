@@ -654,5 +654,19 @@
       "value": "Доставка",
       "isDefault": true
     }
+  ],
+  "direction": [
+    {
+      "value": "Покровское",
+      "isDefault": true
+    },
+    {
+      "value": "Запорожское",
+      "isDefault": true
+    },
+    {
+      "value": "Константиновское",
+      "isDefault": true
+    }
   ]
 }
