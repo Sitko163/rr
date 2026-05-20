@@ -402,10 +402,6 @@
       "isDefault": true
     },
     {
-      "value": "БЧ 3.3",
-      "isDefault": true
-    },
-    {
       "value": "БЧТ-2",
       "isDefault": true
     },
@@ -422,19 +418,11 @@
       "isDefault": true
     },
     {
-      "value": "Зажигалка",
-      "isDefault": true
-    },
-    {
       "value": "ЗБЧ-2,5",
       "isDefault": true
     },
     {
       "value": "КАПЛЯ",
-      "isDefault": true
-    },
-    {
-      "value": "КБ-80",
       "isDefault": true
     },
     {
@@ -462,15 +450,7 @@
       "isDefault": true
     },
     {
-      "value": "КОБЧ-2,5",
-      "isDefault": true
-    },
-    {
       "value": "КОЗБЧ-1,8",
-      "isDefault": true
-    },
-    {
-      "value": "КОЗБЧ-3",
       "isDefault": true
     },
     {
@@ -478,19 +458,7 @@
       "isDefault": true
     },
     {
-      "value": "КОФБЧ-5",
-      "isDefault": true
-    },
-    {
-      "value": "КОФЗБЧ-1.8",
-      "isDefault": true
-    },
-    {
       "value": "КОФЗБЧ-3",
-      "isDefault": true
-    },
-    {
-      "value": "КОФЗБЧ-4",
       "isDefault": true
     },
     {
@@ -507,10 +475,6 @@
     },
     {
       "value": "КПТМ-3А",
-      "isDefault": true
-    },
-    {
-      "value": "ОКФОЛ-3,5",
       "isDefault": true
     },
     {
@@ -543,10 +507,6 @@
     },
     {
       "value": "ОФБЧ-3 'Пруток-В' с взрывателем УЗ-2 (ВМ-КП)",
-      "isDefault": true
-    },
-    {
-      "value": "ОФБЧ-5",
       "isDefault": true
     },
     {
@@ -622,22 +582,6 @@
       "isDefault": true
     },
     {
-      "value": "ПМН4",
-      "isDefault": true
-    },
-    {
-      "value": "ПОМ-2",
-      "isDefault": true
-    },
-    {
-      "value": "ПТАБ",
-      "isDefault": true
-    },
-    {
-      "value": "ПТАБ-2",
-      "isDefault": true
-    },
-    {
       "value": "ПТАБ-2,5 КО",
       "isDefault": true
     },
@@ -646,23 +590,7 @@
       "isDefault": true
     },
     {
-      "value": "ПТМ-1",
-      "isDefault": true
-    },
-    {
-      "value": "ПТМ-3",
-      "isDefault": true
-    },
-    {
-      "value": "ПТМС",
-      "isDefault": true
-    },
-    {
       "value": "9М114Ф",
-      "isDefault": true
-    },
-    {
-      "value": "Рапира",
       "isDefault": true
     },
     {
@@ -674,15 +602,7 @@
       "isDefault": true
     },
     {
-      "value": "РКГ-3",
-      "isDefault": true
-    },
-    {
       "value": "РКГ-3ЕМ",
-      "isDefault": true
-    },
-    {
-      "value": "С36М",
       "isDefault": true
     },
     {
@@ -758,27 +678,7 @@
       "isDefault": true
     },
     {
-      "value": "Шипы",
-      "isDefault": true
-    },
-    {
-      "value": "Мод-1",
-      "isDefault": true
-    },
-    {
-      "value": "Мод-2",
-      "isDefault": true
-    },
-    {
-      "value": "ВОБ",
-      "isDefault": true
-    },
-    {
       "value": "Клевец",
-      "isDefault": true
-    },
-    {
-      "value": "БЧ КВН НГ-1",
       "isDefault": true
     },
     {
