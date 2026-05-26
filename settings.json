@@ -779,6 +779,35 @@
       "value": "ПИ-Клевер",
       "isDefault": true
     },
+
+    {
+      "value": "МУВ-4",
+      "isDefault": true
+    },
+    {
+      "value": "ЗТПМ-300",
+      "isDefault": true
+    },
+    {
+      "value": "ОШП",
+      "isDefault": true
+    },
+    {
+      "value": "МВП-62",
+      "isDefault": true
+    },
+    {
+      "value": "ДШ-В",
+      "isDefault": true
+    },
+    {
+      "value": "ВЗД-3М",
+      "isDefault": true
+    },
+    {
+      "value": "ВЗД-6Ч",
+      "isDefault": true
+    },
     {
       "value": "УЗ-1",
       "isDefault": true
