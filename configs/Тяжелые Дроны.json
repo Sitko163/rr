@@ -1,143 +1,55 @@
 {
-  "targetType": [
+  "subdivision": [
     {
-      "value": "танк",
+      "value": "FPV К.Т. -",
       "isDefault": true
     },
     {
-      "value": "самоходное артиллерийское орудие",
+      "value": "FPV С.Т. -",
       "isDefault": true
     },
     {
-      "value": "буксируемое артиллерийское орудие",
+      "value": "Supercam-",
       "isDefault": true
     },
     {
-      "value": "РСЗО",
+      "value": "Скальпель-",
       "isDefault": true
     },
     {
-      "value": "миномет",
+      "value": "Zala-",
       "isDefault": true
     },
     {
-      "value": "ПТРК",
+      "value": "Lancet-",
       "isDefault": true
     },
     {
-      "value": "зенитная установка",
+      "value": "Черный глаз-",
       "isDefault": true
     },
     {
-      "value": "боевая машина пехоты",
+      "value": "РЭР-",
       "isDefault": true
     },
     {
-      "value": "бронетранспортер",
+      "value": "ПВО БЯ -",
       "isDefault": true
     },
     {
-      "value": "боевая бронированная машина",
+      "value": "Затвор -",
       "isDefault": true
     },
     {
-      "value": "РЛС",
+      "value": "Орлан-10 -",
       "isDefault": true
     },
     {
-      "value": "РЭР",
+      "value": "Клин -",
       "isDefault": true
     },
     {
-      "value": "РЭБ",
-      "isDefault": true
-    },
-    {
-      "value": "автомобильная техника (легковая)",
-      "isDefault": true
-    },
-    {
-      "value": "автомобильная техника (грузовая)",
-      "isDefault": true
-    },
-    {
-      "value": "мототехника",
-      "isDefault": true
-    },
-    {
-      "value": "инженерная техника",
-      "isDefault": true
-    },
-    {
-      "value": "ПУ БпЛА",
-      "isDefault": true
-    },
-    {
-      "value": "БпЛА",
-      "isDefault": true
-    },
-    {
-      "value": "Наземные дроны",
-      "isDefault": true
-    },
-    {
-      "value": "Баба Яга",
-      "isDefault": true
-    },
-    {
-      "value": "пункт управления",
-      "isDefault": true
-    },
-    {
-      "value": "склад БК",
-      "isDefault": true
-    },
-    {
-      "value": "склад ГСМ",
-      "isDefault": true
-    },
-    {
-      "value": "огневая позиция",
-      "isDefault": true
-    },
-    {
-      "value": "пункт временной дислокации",
-      "isDefault": true
-    },
-    {
-      "value": "инженерное сооружение",
-      "isDefault": true
-    },
-    {
-      "value": "система связи",
-      "isDefault": true
-    },
-    {
-      "value": "живая сила 200",
-      "isDefault": true
-    },
-    {
-      "value": "живая сила 300",
-      "isDefault": true
-    },
-    {
-      "value": "средства жизнеобеспечения",
-      "isDefault": true
-    },
-    {
-      "value": "макет",
-      "isDefault": true
-    },
-    {
-      "value": "обеспечение",
-      "isDefault": true
-    },
-    {
-      "value": "системой РЭБ \"Черный глаз\" подавлено",
-      "isDefault": true
-    },
-    {
-      "value": "системой РЭБ \"Затвор\" подавлено",
+      "value": "Тяжёлые дроны -",
       "isDefault": true
     }
   ],
@@ -228,6 +140,146 @@
     },
     {
       "value": "Ночная Ведьма",
+      "isDefault": true
+    }
+  ],
+  "controlType": [
+    {
+      "value": "2.1",
+      "isDefault": true
+    },
+    {
+      "value": "2.2",
+      "isDefault": true
+    },
+    {
+      "value": "2.3",
+      "isDefault": true
+    },
+    {
+      "value": "2.4",
+      "isDefault": true
+    },
+    {
+      "value": "2.4 + бустер",
+      "isDefault": true
+    },
+    {
+      "value": "2.5",
+      "isDefault": true
+    },
+    {
+      "value": "2.6",
+      "isDefault": true
+    },
+    {
+      "value": "3.3 + бустер",
+      "isDefault": true
+    },
+    {
+      "value": "500",
+      "isDefault": true
+    },
+    {
+      "value": "600",
+      "isDefault": true
+    },
+    {
+      "value": "700",
+      "isDefault": true
+    },
+    {
+      "value": "800",
+      "isDefault": true
+    },
+    {
+      "value": "900",
+      "isDefault": true
+    },
+    {
+      "value": "кузнечик",
+      "isDefault": true
+    },
+    {
+      "value": "Оптика",
+      "isDefault": true
+    },
+    {
+      "value": "StarLink",
+      "isDefault": true
+    },
+    {
+      "value": "1300-1500",
+      "isDefault": true
+    },
+    {
+      "value": "1600-1800",
+      "isDefault": true
+    }
+  ],
+  "videoTransmitter": [
+    {
+      "value": "1.2",
+      "isDefault": true
+    },
+    {
+      "value": "1.7",
+      "isDefault": true
+    },
+    {
+      "value": "2.2",
+      "isDefault": true
+    },
+    {
+      "value": "2.2-2.4",
+      "isDefault": true
+    },
+    {
+      "value": "2.4",
+      "isDefault": true
+    },
+    {
+      "value": "3.3",
+      "isDefault": true
+    },
+    {
+      "value": "3.3 + бустер",
+      "isDefault": true
+    },
+    {
+      "value": "3.3 + МШУ + Фильтр",
+      "isDefault": true
+    },
+    {
+      "value": "3.7",
+      "isDefault": true
+    },
+    {
+      "value": "4.1",
+      "isDefault": true
+    },
+    {
+      "value": "4.9",
+      "isDefault": true
+    },
+    {
+      "value": "5.8",
+      "isDefault": true
+    },
+    {
+      "value": "Оптика",
+      "isDefault": true
+    },
+    {
+      "value": "StarLink",
+      "isDefault": true
+    },
+    {
+      "value": "1300-1500",
+      "isDefault": true
+    },
+    {
+      "value": "1600-1800",
       "isDefault": true
     }
   ],
@@ -645,240 +697,6 @@
       "isDefault": true
     }
   ],
-  "subdivision": [
-    {
-      "value": "FPV К.Т. -",
-      "isDefault": true
-    },
-    {
-      "value": "FPV С.Т. -",
-      "isDefault": true
-    },
-    {
-      "value": "Supercam-",
-      "isDefault": true
-    },
-    {
-      "value": "Скальпель-",
-      "isDefault": true
-    },
-    {
-      "value": "Zala-",
-      "isDefault": true
-    },
-    {
-      "value": "Lancet-",
-      "isDefault": true
-    },
-    {
-      "value": "Черный глаз-",
-      "isDefault": true
-    },
-    {
-      "value": "РЭР-",
-      "isDefault": true
-    },
-    {
-      "value": "ПВО БЯ -",
-      "isDefault": true
-    },
-    {
-      "value": "Затвор -",
-      "isDefault": true
-    },
-    {
-      "value": "Орлан-10 -",
-      "isDefault": true
-    },
-    {
-      "value": "Клин -",
-      "isDefault": true
-    },
-    {
-      "value": "Тяжёлые дроны -",
-      "isDefault": true
-    }
-  ],
-  "result": [
-    {
-      "value": "уничтожено",
-      "isDefault": true
-    },
-    {
-      "value": "поражено",
-      "isDefault": true
-    },
-    {
-      "value": "добивание",
-      "isDefault": true
-    },
-    {
-      "value": "успешно",
-      "isDefault": true
-    },
-    {
-      "value": "не поражено",
-      "isDefault": true
-    },
-    {
-      "value": "не успешно",
-      "isDefault": true
-    }
-  ],
-  "applicationGoal": [
-    {
-      "value": "уничтожение",
-      "isDefault": true
-    },
-    {
-      "value": "доставка",
-      "isDefault": true
-    },
-    {
-      "value": "подавление",
-      "isDefault": true
-    }
-  ],
-  "controlType": [
-    {
-      "value": "2.1",
-      "isDefault": true
-    },
-    {
-      "value": "2.2",
-      "isDefault": true
-    },
-    {
-      "value": "2.3",
-      "isDefault": true
-    },
-    {
-      "value": "2.4",
-      "isDefault": true
-    },
-    {
-      "value": "2.4 + бустер",
-      "isDefault": true
-    },
-    {
-      "value": "2.5",
-      "isDefault": true
-    },
-    {
-      "value": "2.6",
-      "isDefault": true
-    },
-    {
-      "value": "3.3 + бустер",
-      "isDefault": true
-    },
-    {
-      "value": "500",
-      "isDefault": true
-    },
-    {
-      "value": "600",
-      "isDefault": true
-    },
-    {
-      "value": "700",
-      "isDefault": true
-    },
-    {
-      "value": "800",
-      "isDefault": true
-    },
-    {
-      "value": "900",
-      "isDefault": true
-    },
-    {
-      "value": "кузнечик",
-      "isDefault": true
-    },
-    {
-      "value": "Оптика",
-      "isDefault": true
-    },
-    {
-      "value": "StarLink",
-      "isDefault": true
-    },
-    {
-      "value": "1300-1500",
-      "isDefault": true
-    },
-    {
-      "value": "1600-1800",
-      "isDefault": true
-    }
-  ],
-  "videoTransmitter": [
-    {
-      "value": "1.2",
-      "isDefault": true
-    },
-    {
-      "value": "1.7",
-      "isDefault": true
-    },
-    {
-      "value": "2.2",
-      "isDefault": true
-    },
-    {
-      "value": "2.2-2.4",
-      "isDefault": true
-    },
-    {
-      "value": "2.4",
-      "isDefault": true
-    },
-    {
-      "value": "3.3",
-      "isDefault": true
-    },
-    {
-      "value": "3.3 + бустер",
-      "isDefault": true
-    },
-    {
-      "value": "3.3 + МШУ + Фильтр",
-      "isDefault": true
-    },
-    {
-      "value": "3.7",
-      "isDefault": true
-    },
-    {
-      "value": "4.1",
-      "isDefault": true
-    },
-    {
-      "value": "4.9",
-      "isDefault": true
-    },
-    {
-      "value": "5.8",
-      "isDefault": true
-    },
-    {
-      "value": "Оптика",
-      "isDefault": true
-    },
-    {
-      "value": "StarLink",
-      "isDefault": true
-    },
-    {
-      "value": "1300-1500",
-      "isDefault": true
-    },
-    {
-      "value": "1600-1800",
-      "isDefault": true
-    }
-  ],
   "fuzeType": [
     {
       "value": "МУВ-4",
@@ -910,6 +728,188 @@
     },
     {
       "value": "ЭДП-р",
+      "isDefault": true
+    }
+  ],
+  "targetType": [
+    {
+      "value": "танк",
+      "isDefault": true
+    },
+    {
+      "value": "самоходное артиллерийское орудие",
+      "isDefault": true
+    },
+    {
+      "value": "буксируемое артиллерийское орудие",
+      "isDefault": true
+    },
+    {
+      "value": "РСЗО",
+      "isDefault": true
+    },
+    {
+      "value": "миномет",
+      "isDefault": true
+    },
+    {
+      "value": "ПТРК",
+      "isDefault": true
+    },
+    {
+      "value": "зенитная установка",
+      "isDefault": true
+    },
+    {
+      "value": "боевая машина пехоты",
+      "isDefault": true
+    },
+    {
+      "value": "бронетранспортер",
+      "isDefault": true
+    },
+    {
+      "value": "боевая бронированная машина",
+      "isDefault": true
+    },
+    {
+      "value": "РЛС",
+      "isDefault": true
+    },
+    {
+      "value": "РЭР",
+      "isDefault": true
+    },
+    {
+      "value": "РЭБ",
+      "isDefault": true
+    },
+    {
+      "value": "автомобильная техника (легковая)",
+      "isDefault": true
+    },
+    {
+      "value": "автомобильная техника (грузовая)",
+      "isDefault": true
+    },
+    {
+      "value": "мототехника",
+      "isDefault": true
+    },
+    {
+      "value": "инженерная техника",
+      "isDefault": true
+    },
+    {
+      "value": "ПУ БпЛА",
+      "isDefault": true
+    },
+    {
+      "value": "БпЛА",
+      "isDefault": true
+    },
+    {
+      "value": "Наземные дроны",
+      "isDefault": true
+    },
+    {
+      "value": "Баба Яга",
+      "isDefault": true
+    },
+    {
+      "value": "пункт управления",
+      "isDefault": true
+    },
+    {
+      "value": "склад БК",
+      "isDefault": true
+    },
+    {
+      "value": "склад ГСМ",
+      "isDefault": true
+    },
+    {
+      "value": "огневая позиция",
+      "isDefault": true
+    },
+    {
+      "value": "пункт временной дислокации",
+      "isDefault": true
+    },
+    {
+      "value": "инженерное сооружение",
+      "isDefault": true
+    },
+    {
+      "value": "система связи",
+      "isDefault": true
+    },
+    {
+      "value": "живая сила 200",
+      "isDefault": true
+    },
+    {
+      "value": "живая сила 300",
+      "isDefault": true
+    },
+    {
+      "value": "средства жизнеобеспечения",
+      "isDefault": true
+    },
+    {
+      "value": "макет",
+      "isDefault": true
+    },
+    {
+      "value": "обеспечение",
+      "isDefault": true
+    },
+    {
+      "value": "системой РЭБ \"Черный глаз\" подавлено",
+      "isDefault": true
+    },
+    {
+      "value": "системой РЭБ \"Затвор\" подавлено",
+      "isDefault": true
+    }
+  ],
+  "applicationGoal": [
+    {
+      "value": "уничтожение",
+      "isDefault": true
+    },
+    {
+      "value": "доставка",
+      "isDefault": true
+    },
+    {
+      "value": "подавление",
+      "isDefault": true
+    }
+  ],
+  "result": [
+    {
+      "value": "уничтожено",
+      "isDefault": true
+    },
+    {
+      "value": "поражено",
+      "isDefault": true
+    },
+    {
+      "value": "добивание",
+      "isDefault": true
+    },
+    {
+      "value": "успешно",
+      "isDefault": true
+    },
+    {
+      "value": "не поражено",
+      "isDefault": true
+    },
+    {
+      "value": "не успешно",
       "isDefault": true
     }
   ],
