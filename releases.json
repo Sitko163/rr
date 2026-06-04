@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.11",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.11/app-release-v6.0.11.apk",
+  "latest_version": "v6.0.12",
+  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.12/app-release-v6.0.12.apk",
   "releases": [
+    {
+      "version": "v6.0.12",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.12/app-release-v6.0.12.apk",
+      "description": "Настройка включения короткого отчёта; 103 боеприпаса в конфиге Тяжелые Дроны",
+      "date": "2026-06-02"
+    },
     {
       "version": "v6.0.11",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.11/app-release-v6.0.11.apk",
