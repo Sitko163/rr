@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.9",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.9/app-release-v6.0.9.apk",
+  "latest_version": "v6.0.10",
+  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.10/app-release-v6.0.10.apk",
   "releases": [
+    {
+      "version": "v6.0.10",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.10/app-release-v6.0.10.apk",
+      "description": "Выбор конфига в настройках; Excel и Telegram с учётом возврата дрона; компактный шаблон Telegram",
+      "date": "2026-06-04"
+    },
     {
       "version": "v6.0.9",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.9/app-release-v6.0.9.apk",
