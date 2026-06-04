@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.7",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.7/app-release-v6.0.7.apk",
+  "latest_version": "v6.0.8",
+  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.8/app-release-v6.0.8.apk",
   "releases": [
+    {
+      "version": "v6.0.8",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.8/app-release-v6.0.8.apk",
+      "description": "Исправлена проверка обновлений (сеть в фоне, редиректы APK)",
+      "date": "2026-06-04"
+    },
     {
       "version": "v6.0.7",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.7/app-release-v6.0.7.apk",
