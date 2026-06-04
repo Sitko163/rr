@@ -463,6 +463,190 @@
     {
       "value": "ПГ-9",
       "isDefault": true
+    },
+    {
+      "value": "ПГ-9С",
+      "isDefault": true
+    },
+    {
+      "value": "КОБЭ-80",
+      "isDefault": true
+    },
+    {
+      "value": "ТББЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-9ВС",
+      "isDefault": true
+    },
+    {
+      "value": "КБЧ-3",
+      "isDefault": true
+    },
+    {
+      "value": "КБЧ-4,5(Азалия)",
+      "isDefault": true
+    },
+    {
+      "value": "Секира",
+      "isDefault": true
+    },
+    {
+      "value": "КОБЭ-3М",
+      "isDefault": true
+    },
+    {
+      "value": "БЧТ-3",
+      "isDefault": true
+    },
+    {
+      "value": "ТББЧ-5УЗ",
+      "isDefault": true
+    },
+    {
+      "value": "С36М",
+      "isDefault": true
+    },
+    {
+      "value": "Шайба",
+      "isDefault": true
+    },
+    {
+      "value": "ОКФОЛ-3,5",
+      "isDefault": true
+    },
+    {
+      "value": "ТББ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ДЗБ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-2Ф",
+      "isDefault": true
+    },
+    {
+      "value": "КЗСП-0,5",
+      "isDefault": true
+    },
+    {
+      "value": "БНП",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-26",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-0,8",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-3 'Пруток-В'",
+      "isDefault": true
+    },
+    {
+      "value": "ОЗМ-72",
+      "isDefault": true
+    },
+    {
+      "value": "БЧТ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ЗБЧ-2,5",
+      "isDefault": true
+    },
+    {
+      "value": "ТМ-62ПЗ",
+      "isDefault": true
+    },
+    {
+      "value": "РКГ-9",
+      "isDefault": true
+    },
+    {
+      "value": "ТМ-62М",
+      "isDefault": true
+    },
+    {
+      "value": "Лампочка-Н",
+      "isDefault": true
+    },
+    {
+      "value": "Зубило",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-7Р(м)",
+      "isDefault": true
+    },
+    {
+      "value": "Ядро",
+      "isDefault": true
+    },
+    {
+      "value": "КЗБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-0,5",
+      "isDefault": true
+    },
+    {
+      "value": "УПМ-0",
+      "isDefault": true
+    },
+    {
+      "value": "БЧ-10",
+      "isDefault": true
+    },
+    {
+      "value": "ТОБЧ-0,5",
+      "isDefault": true
+    },
+    {
+      "value": "Термобар",
+      "isDefault": true
+    },
+    {
+      "value": "ТБЧ-2.5",
+      "isDefault": true
+    },
+    {
+      "value": "Мод-1",
+      "isDefault": true
+    },
+    {
+      "value": "Мод-2",
+      "isDefault": true
+    },
+    {
+      "value": "ВОБ",
+      "isDefault": true
+    },
+    {
+      "value": "КОБЭ-120",
+      "isDefault": true
+    },
+    {
+      "value": "ТБ-80",
+      "isDefault": true
+    },
+    {
+      "value": "РД-40",
+      "isDefault": true
+    },
+    {
+      "value": "РДГ-1",
+      "isDefault": true
+    },
+    {
+      "value": "82-мм мина ОФ",
+      "isDefault": true
     }
   ],
   "subdivision": [
