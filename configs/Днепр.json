@@ -31,6 +31,10 @@
       "isDefault": true
     },
     {
+      "value": "БМ-70",
+      "isDefault": true
+    },
+    {
       "value": "Бумеранг-10 с АУЦ (День)",
       "isDefault": true
     },
@@ -215,11 +219,23 @@
       "isDefault": true
     },
     {
+      "value": "Овод-15-О с ВОЛС (25 км.)",
+      "isDefault": true
+    },
+    {
       "value": "Велес-15 ВОЛС (25км)Д",
       "isDefault": true
     },
     {
-      "value": "РусакО-25",
+      "value": "Русак-О с ВОЛС (25 км.)",
+      "isDefault": true
+    },
+    {
+      "value": "Велес-10",
+      "isDefault": true
+    },
+    {
+      "value": "Воган-15Т-ВОЛС (25км)",
       "isDefault": true
     }
   ],
@@ -254,6 +270,10 @@
     },
     {
       "value": "3.3 + бустер",
+      "isDefault": true
+    },
+    {
+      "value": "300",
       "isDefault": true
     },
     {
@@ -409,10 +429,6 @@
       "isDefault": true
     },
     {
-      "value": "ЗБЧ-5",
-      "isDefault": true
-    },
-    {
       "value": "КАПЛЯ",
       "isDefault": true
     },
@@ -497,11 +513,23 @@
       "isDefault": true
     },
     {
+      "value": "ОРГ-1",
+      "isDefault": true
+    },
+    {
       "value": "ОФБЧ-0,8",
       "isDefault": true
     },
     {
+      "value": "ОФБЧ-1.7",
+      "isDefault": true
+    },
+    {
       "value": "ОФБЧ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-2,5",
       "isDefault": true
     },
     {
@@ -601,6 +629,10 @@
       "isDefault": true
     },
     {
+      "value": "БКФ ПТАБ 2.5 КО",
+      "isDefault": true
+    },
+    {
       "value": "ПТМ-1",
       "isDefault": true
     },
@@ -613,7 +645,7 @@
       "isDefault": true
     },
     {
-      "value": "ПТУР 9М114",
+      "value": "9М114Ф",
       "isDefault": true
     },
     {
@@ -729,7 +761,7 @@
       "isDefault": true
     },
     {
-      "value": "Осколочно-фугасный",
+      "value": "БЧ КВН НГ-1",
       "isDefault": true
     },
     {
@@ -738,6 +770,10 @@
     },
     {
       "value": "КЗБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ЗБЧ-5",
       "isDefault": true
     }
   ],
