@@ -43,6 +43,10 @@
       "isDefault": true
     },
     {
+      "value": "Дрон перехватчик Елка",
+      "isDefault": true
+    },
+    {
       "value": "КВН-16",
       "isDefault": true
     },
@@ -84,6 +88,10 @@
     },
     {
       "value": "Молния-2ИИ",
+      "isDefault": true
+    },
+    {
+      "value": "Молния-13Д",
       "isDefault": true
     },
     {
@@ -212,10 +220,6 @@
     },
     {
       "value": "Клин Н",
-      "isDefault": true
-    },
-    {
-      "value": "ПрОвод-25",
       "isDefault": true
     },
     {
@@ -394,6 +398,10 @@
       "isDefault": true
     },
     {
+      "value": "9М114Ф",
+      "isDefault": true
+    },
+    {
       "value": "9М115(МЕТИС)",
       "isDefault": true
     },
@@ -502,6 +510,10 @@
       "isDefault": true
     },
     {
+      "value": "КОФЗБЧ-3-Ф ПТ-50",
+      "isDefault": true
+    },
+    {
       "value": "КПТМ-3",
       "isDefault": true
     },
@@ -550,6 +562,14 @@
       "isDefault": true
     },
     {
+      "value": "ОФБЧ-10 КРАПИВА",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-30 ЗВЕРОБОЙ",
+      "isDefault": true
+    },
+    {
       "value": "ОФСП-0,5",
       "isDefault": true
     },
@@ -563,6 +583,10 @@
     },
     {
       "value": "ОФСП-2.5",
+      "isDefault": true
+    },
+    {
+      "value": "ПВВ-12М",
       "isDefault": true
     },
     {
@@ -582,7 +606,15 @@
       "isDefault": true
     },
     {
+      "value": "ПГ-7Л",
+      "isDefault": true
+    },
+    {
       "value": "ПГ-7ВЛ",
+      "isDefault": true
+    },
+    {
+      "value": "ПГ-7Р",
       "isDefault": true
     },
     {
@@ -694,7 +726,15 @@
       "isDefault": true
     },
     {
+      "value": "СФБЧ-2,5 Зубило",
+      "isDefault": true
+    },
+    {
       "value": "ТББ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ТББ-2,5",
       "isDefault": true
     },
     {
@@ -715,6 +755,10 @@
     },
     {
       "value": "ТБГ-7В",
+      "isDefault": true
+    },
+    {
+      "value": "ТБО БЧ-8",
       "isDefault": true
     },
     {
