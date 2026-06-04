@@ -909,6 +909,10 @@
       "isDefault": true
     },
     {
+      "value": "УДИВ-ДД+МД-5М",
+      "isDefault": true
+    },
+    {
       "value": "ЭДП-р",
       "isDefault": true
     }
@@ -916,10 +920,6 @@
   "direction": [
     {
       "value": "Запорожское",
-      "isDefault": true
-    },
-    {
-      "value": "Покровское",
       "isDefault": true
     },
     {
