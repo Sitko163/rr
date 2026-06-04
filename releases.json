@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.10",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.10/app-release-v6.0.10.apk",
+  "latest_version": "v6.0.11",
+  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.11/app-release-v6.0.11.apk",
   "releases": [
+    {
+      "version": "v6.0.11",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.11/app-release-v6.0.11.apk",
+      "description": "Исправлены выпадающие списки в формах отчёта и выборе конфига",
+      "date": "2026-06-04"
+    },
     {
       "version": "v6.0.10",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.10/app-release-v6.0.10.apk",
