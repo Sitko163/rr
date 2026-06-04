@@ -276,7 +276,7 @@
       "value": "3.3 + бустер",
       "isDefault": true
     },
-     {
+    {
       "value": "300",
       "isDefault": true
     },
@@ -394,10 +394,6 @@
   "warhead": [
     {
       "value": "Без БК",
-      "isDefault": true
-    },
-    {
-      "value": "9М114Ф",
       "isDefault": true
     },
     {
