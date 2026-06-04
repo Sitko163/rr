@@ -885,10 +885,6 @@
   ],
   "fuzeType": [
     {
-      "value": "штатный",
-      "isDefault": true
-    },
-    {
       "value": "МУВ-4",
       "isDefault": true
     },
@@ -910,6 +906,10 @@
     },
     {
       "value": "УДИВ-ДД+МД-5М",
+      "isDefault": true
+    },
+    {
+      "value": "штатный",
       "isDefault": true
     },
     {
