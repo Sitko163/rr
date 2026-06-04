@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.1",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.1/app-release-v6.0.1.apk",
+  "latest_version": "v6.0.7",
+  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.7/app-release-v6.0.7.apk",
   "releases": [
+    {
+      "version": "v6.0.7",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.7/app-release-v6.0.7.apk",
+      "description": "Справочники Тяжелые Дроны/Север; направления в выпадающем списке; БЧ и взрыватель необязательны; цель применения и результаты",
+      "date": "2026-06-02"
+    },
     {
       "version": "v6.0.1",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.1/app-release-v6.0.1.apk",
