@@ -1026,19 +1026,5 @@
       "value": "уничтожено",
       "isDefault": true
     }
-  ],
-  "direction": [
-    {
-      "value": "Сумское направление",
-      "isDefault": true
-    },
-    {
-      "value": "Теткинско-глушковское направление",
-      "isDefault": true
-    },
-    {
-      "value": "Рыльское направление",
-      "isDefault": true
-    }
   ]
 }
