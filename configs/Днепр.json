@@ -1,51 +1,23 @@
 {
   "subdivision": [
     {
-      "value": "FPV К.Т. -",
+      "value": "ИГ FPV К.Т. -",
       "isDefault": true
     },
     {
-      "value": "FPV С.Т. -",
+      "value": "ИГ FPV С.Т. -",
       "isDefault": true
     },
     {
-      "value": "Lancet-",
+      "value": "ИГ в. разведки -",
       "isDefault": true
     },
     {
-      "value": "ПВО БЯ",
+      "value": "ИГ против. БпЛА -",
       "isDefault": true
     },
     {
-      "value": "ПВО",
-      "isDefault": true
-    },
-    {
-      "value": "Орлан-10",
-      "isDefault": true
-    },
-    {
-      "value": "Разведывательные БПЛА",
-      "isDefault": true
-    },
-    {
-      "value": "РЭР-",
-      "isDefault": true
-    },
-    {
-      "value": "Скальпель-",
-      "isDefault": true
-    },
-    {
-      "value": "Supercam-",
-      "isDefault": true
-    },
-    {
-      "value": "Черный глаз-",
-      "isDefault": true
-    },
-    {
-      "value": "Zala-",
+      "value": "ИГ развед-ударная -",
       "isDefault": true
     }
   ],
@@ -56,6 +28,10 @@
     },
     {
       "value": "Аляска Н",
+      "isDefault": true
+    },
+    {
+      "value": "БМ-70",
       "isDefault": true
     },
     {
@@ -140,14 +116,6 @@
     },
     {
       "value": "ПВХ-3Т",
-      "isDefault": true
-    },
-    {
-      "value": "ПВХ-5",
-      "isDefault": true
-    },
-    {
-      "value": "ПВХ-5Т",
       "isDefault": true
     },
     {
@@ -245,6 +213,30 @@
     {
       "value": "Клин Н",
       "isDefault": true
+    },
+    {
+      "value": "ПрОвод-25",
+      "isDefault": true
+    },
+    {
+      "value": "Овод-15-О с ВОЛС (25 км.)",
+      "isDefault": true
+    },
+    {
+      "value": "Велес-15 ВОЛС (25км)Д",
+      "isDefault": true
+    },
+    {
+      "value": "Русак-О с ВОЛС (25 км.)",
+      "isDefault": true
+    },
+    {
+      "value": "Велес-10",
+      "isDefault": true
+    },
+    {
+      "value": "Воган-15Т-ВОЛС (25км)",
+      "isDefault": true
     }
   ],
   "controlType": [
@@ -278,6 +270,10 @@
     },
     {
       "value": "3.3 + бустер",
+      "isDefault": true
+    },
+    {
+      "value": "300",
       "isDefault": true
     },
     {
@@ -368,6 +364,10 @@
     },
     {
       "value": "5.8",
+      "isDefault": true
+    },
+    {
+      "value": "6.1",
       "isDefault": true
     },
     {
@@ -513,11 +513,23 @@
       "isDefault": true
     },
     {
+      "value": "ОРГ-1",
+      "isDefault": true
+    },
+    {
       "value": "ОФБЧ-0,8",
       "isDefault": true
     },
     {
+      "value": "ОФБЧ-1.7",
+      "isDefault": true
+    },
+    {
       "value": "ОФБЧ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-2,5",
       "isDefault": true
     },
     {
@@ -526,6 +538,10 @@
     },
     {
       "value": "ОФБЧ-3",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-30 Зверобой",
       "isDefault": true
     },
     {
@@ -617,6 +633,10 @@
       "isDefault": true
     },
     {
+      "value": "БКФ ПТАБ 2.5 КО",
+      "isDefault": true
+    },
+    {
       "value": "ПТМ-1",
       "isDefault": true
     },
@@ -629,7 +649,7 @@
       "isDefault": true
     },
     {
-      "value": "ПТУР 9М114",
+      "value": "9М114Ф",
       "isDefault": true
     },
     {
@@ -745,7 +765,7 @@
       "isDefault": true
     },
     {
-      "value": "Осколочно-фугасный",
+      "value": "БЧ КВН НГ-1",
       "isDefault": true
     },
     {
@@ -754,6 +774,10 @@
     },
     {
       "value": "КЗБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ЗБЧ-5",
       "isDefault": true
     }
   ],
