@@ -1,55 +1,23 @@
 {
   "subdivision": [
     {
-      "value": "FPV К.Т. -",
+      "value": "1 группа ТД",
       "isDefault": true
     },
     {
-      "value": "FPV С.Т. -",
+      "value": "2 группа ТД",
       "isDefault": true
     },
     {
-      "value": "Supercam-",
+      "value": "3 группа ТД",
       "isDefault": true
     },
     {
-      "value": "Скальпель-",
+      "value": "4 группа ТД",
       "isDefault": true
     },
     {
-      "value": "Zala-",
-      "isDefault": true
-    },
-    {
-      "value": "Lancet-",
-      "isDefault": true
-    },
-    {
-      "value": "Черный глаз-",
-      "isDefault": true
-    },
-    {
-      "value": "РЭР-",
-      "isDefault": true
-    },
-    {
-      "value": "ПВО БЯ -",
-      "isDefault": true
-    },
-    {
-      "value": "Затвор -",
-      "isDefault": true
-    },
-    {
-      "value": "Орлан-10 -",
-      "isDefault": true
-    },
-    {
-      "value": "Клин -",
-      "isDefault": true
-    },
-    {
-      "value": "Тяжёлые дроны -",
+      "value": "разведывательно-ударная группа ТД",
       "isDefault": true
     }
   ],

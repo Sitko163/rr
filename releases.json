@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.12",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.12/app-release-v6.0.12.apk",
+  "latest_version": "v6.0.13",
+  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.13/app-release-v6.0.13.apk",
   "releases": [
+    {
+      "version": "v6.0.13",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.13/app-release-v6.0.13.apk",
+      "description": "Подразделения в конфиге Тяжелые Дроны; короткий отчёт без БЧ; видео при редактировании и в Telegram",
+      "date": "2026-06-05"
+    },
     {
       "version": "v6.0.12",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.12/app-release-v6.0.12.apk",
