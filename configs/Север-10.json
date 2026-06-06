@@ -787,6 +787,38 @@
    {
       "value": "РКБ-250 ЗАБ-2,5 (М)",
       "isDefault": true
+    },
+	{
+      "value": "КЗБЧ-5",
+      "isDefault": true
+    },
+	 {
+      "value": "ПГ-7М",
+      "isDefault": true
+    },
+	 {
+      "value": "ПГ-7Л",
+      "isDefault": true
+    },
+	{
+      "value": "ОФБЧ-0,5",
+      "isDefault": true
+    },
+	{
+      "value": "КБЧ-4,5(Секира)",
+      "isDefault": true
+    },
+	{
+      "value": "ПГ-7Р",
+      "isDefault": true
+    },
+	{
+      "value": "БЧС-8КОМ",
+      "isDefault": true
+    },
+	{
+      "value": "ОРГ-1",
+      "isDefault": true
     }
   ],
   "fuzeType": [
@@ -864,6 +896,10 @@
     },
     {
       "value": "ПИ-Клевер",
+      "isDefault": true
+    },
+	{
+      "value": "ЭДП",
       "isDefault": true
     }
   ],
