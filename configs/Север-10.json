@@ -823,6 +823,10 @@
 	{
       "value": "ТБ-80",
       "isDefault": true
+    },
+	{
+      "value": "ОФБЧ-2,5",
+      "isDefault": true
     }
   ],
   "fuzeType": [
