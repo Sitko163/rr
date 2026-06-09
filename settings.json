@@ -461,10 +461,6 @@
       "isDefault": true
     },
     {
-      "value": "КОБЭ-80",
-      "isDefault": true
-    },
-    {
       "value": "КОБЧ-2,5",
       "isDefault": true
     },
@@ -824,6 +820,9 @@
   "fuzeType": [
     {
       "value": "Без взрывателя",
+      "isDefault": true
+   {
+      "value": "ВЗД-3М",
       "isDefault": true
     },
     {
