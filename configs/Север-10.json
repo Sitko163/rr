@@ -273,6 +273,14 @@
     {
       "value": "Рой f1T",
       "isDefault": true
+    },
+    {
+      "value": "Воган-15",
+      "isDefault": true
+    },
+    {
+      "value": "Воган-15Т",
+      "isDefault": true
     }
   ],
   "controlType": [
