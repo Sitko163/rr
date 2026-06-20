@@ -395,6 +395,10 @@
       "isDefault": true
     },
     {
+      "value": "500",
+      "isDefault": true
+    },
+    {
       "value": "4.9",
       "isDefault": true
     },
