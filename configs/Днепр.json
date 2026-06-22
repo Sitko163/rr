@@ -43,6 +43,10 @@
       "isDefault": true
     },
     {
+      "value": "Дрон перехватчик Елка",
+      "isDefault": true
+    },
+    {
       "value": "КВН-16",
       "isDefault": true
     },
@@ -84,6 +88,10 @@
     },
     {
       "value": "Молния-2ИИ",
+      "isDefault": true
+    },
+    {
+      "value": "Молния-13Д",
       "isDefault": true
     },
     {
@@ -212,10 +220,6 @@
     },
     {
       "value": "Клин Н",
-      "isDefault": true
-    },
-    {
-      "value": "ПрОвод-25",
       "isDefault": true
     },
     {
