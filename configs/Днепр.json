@@ -821,6 +821,9 @@
     {
       "value": "Без взрывателя",
       "isDefault": true
+   {
+      "value": "ВЗД-3М",
+      "isDefault": true
     },
     {
       "value": "ЗТП 300",
@@ -840,10 +843,6 @@
     },
     {
       "value": "МД2",
-      "isDefault": true
-    },
-    {
-      "value": "МД-5",
       "isDefault": true
     },
     {
@@ -876,6 +875,10 @@
     },
     {
       "value": "ШТАТНЫЙ",
+      "isDefault": true
+    },
+    {
+      "value": "ЭДП",
       "isDefault": true
     },
     {
