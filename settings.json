@@ -821,7 +821,8 @@
     {
       "value": "Без взрывателя",
       "isDefault": true
-   {
+    },
+    {
       "value": "ВЗД-3М",
       "isDefault": true
     },
@@ -1044,6 +1045,20 @@
       "isDefault": true
     }
   ],
+  "applicationGoal": [
+    {
+      "value": "уничтожение",
+      "isDefault": true
+    },
+    {
+      "value": "доставка",
+      "isDefault": true
+    },
+    {
+      "value": "подавление",
+      "isDefault": true
+    }
+  ],
   "result": [
     {
       "value": "не поражено",
@@ -1059,6 +1074,20 @@
     },
     {
       "value": "уничтожено",
+      "isDefault": true
+    }
+  ],
+  "direction": [
+    {
+      "value": "Запорожское",
+      "isDefault": true
+    },
+    {
+      "value": "Добропольское",
+      "isDefault": true
+    },
+    {
+      "value": "Харьковское",
       "isDefault": true
     }
   ]
