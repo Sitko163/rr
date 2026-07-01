@@ -835,6 +835,10 @@
 	{
       "value": "ОФБЧ-2,5",
       "isDefault": true
+    },
+	{
+      "value": "ОФБЧ-1,7",
+      "isDefault": true
     }
   ],
   "fuzeType": [
