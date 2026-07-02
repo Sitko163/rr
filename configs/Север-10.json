@@ -1065,6 +1065,20 @@
       "isDefault": true
     }
   ],
+  "applicationGoal": [
+    {
+      "value": "уничтожение",
+      "isDefault": true
+    },
+    {
+      "value": "доставка",
+      "isDefault": true
+    },
+    {
+      "value": "подавление",
+      "isDefault": true
+    }
+  ],
   "result": [
     {
       "value": "не поражено",
