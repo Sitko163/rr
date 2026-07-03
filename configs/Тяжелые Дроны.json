@@ -717,31 +717,15 @@
   ],
   "targetType": [
     {
-      "value": "танк",
+      "value": "автомобильная техника",
       "isDefault": true
     },
     {
-      "value": "самоходное артиллерийское орудие",
+      "value": "Баба Яга",
       "isDefault": true
     },
     {
-      "value": "буксируемое артиллерийское орудие",
-      "isDefault": true
-    },
-    {
-      "value": "РСЗО",
-      "isDefault": true
-    },
-    {
-      "value": "миномет",
-      "isDefault": true
-    },
-    {
-      "value": "ПТРК",
-      "isDefault": true
-    },
-    {
-      "value": "зенитная установка",
+      "value": "боевая бронированная машина",
       "isDefault": true
     },
     {
@@ -753,79 +737,11 @@
       "isDefault": true
     },
     {
-      "value": "боевая бронированная машина",
-      "isDefault": true
-    },
-    {
-      "value": "РЛС",
-      "isDefault": true
-    },
-    {
-      "value": "РЭР",
-      "isDefault": true
-    },
-    {
-      "value": "РЭБ",
-      "isDefault": true
-    },
-    {
-      "value": "автомобильная техника (легковая)",
-      "isDefault": true
-    },
-    {
-      "value": "автомобильная техника (грузовая)",
-      "isDefault": true
-    },
-    {
-      "value": "мототехника",
-      "isDefault": true
-    },
-    {
-      "value": "инженерная техника",
-      "isDefault": true
-    },
-    {
-      "value": "ПУ БпЛА",
-      "isDefault": true
-    },
-    {
       "value": "БпЛА",
       "isDefault": true
     },
     {
-      "value": "Наземные дроны",
-      "isDefault": true
-    },
-    {
-      "value": "Баба Яга",
-      "isDefault": true
-    },
-    {
-      "value": "пункт управления",
-      "isDefault": true
-    },
-    {
-      "value": "склад БК",
-      "isDefault": true
-    },
-    {
-      "value": "склад ГСМ",
-      "isDefault": true
-    },
-    {
-      "value": "огневая позиция",
-      "isDefault": true
-    },
-    {
-      "value": "пункт временной дислокации",
-      "isDefault": true
-    },
-    {
-      "value": "инженерное сооружение",
-      "isDefault": true
-    },
-    {
-      "value": "система связи",
+      "value": "буксируемое артиллерийское орудие",
       "isDefault": true
     },
     {
@@ -837,7 +753,19 @@
       "isDefault": true
     },
     {
-      "value": "средства жизнеобеспечения",
+      "value": "зенитная установка",
+      "isDefault": true
+    },
+    {
+      "value": "инженерная техника",
+      "isDefault": true
+    },
+    {
+      "value": "инженерное сооружение",
+      "isDefault": true
+    },
+    {
+      "value": "КШМ",
       "isDefault": true
     },
     {
@@ -845,15 +773,87 @@
       "isDefault": true
     },
     {
+      "value": "миномет",
+      "isDefault": true
+    },
+    {
+      "value": "мототехника",
+      "isDefault": true
+    },
+    {
+      "value": "Наземные дроны",
+      "isDefault": true
+    },
+    {
       "value": "обеспечение",
       "isDefault": true
     },
     {
-      "value": "системой РЭБ \"Черный глаз\" подавлено",
+      "value": "огневая позиция",
       "isDefault": true
     },
     {
-      "value": "системой РЭБ \"Затвор\" подавлено",
+      "value": "огневые средства",
+      "isDefault": true
+    },
+    {
+      "value": "пункт временной дислокации",
+      "isDefault": true
+    },
+    {
+      "value": "пункт управления",
+      "isDefault": true
+    },
+    {
+      "value": "ПТРК",
+      "isDefault": true
+    },
+    {
+      "value": "ПУ БпЛА",
+      "isDefault": true
+    },
+    {
+      "value": "РЛС",
+      "isDefault": true
+    },
+    {
+      "value": "РСЗО",
+      "isDefault": true
+    },
+    {
+      "value": "РЭБ",
+      "isDefault": true
+    },
+    {
+      "value": "РЭР",
+      "isDefault": true
+    },
+    {
+      "value": "самоходное артиллерийское орудие",
+      "isDefault": true
+    },
+    {
+      "value": "система связи",
+      "isDefault": true
+    },
+    {
+      "value": "склад БК",
+      "isDefault": true
+    },
+    {
+      "value": "склад ГСМ",
+      "isDefault": true
+    },
+    {
+      "value": "средства жизнеобеспечения",
+      "isDefault": true
+    },
+    {
+      "value": "танк",
+      "isDefault": true
+    },
+    {
+      "value": "Энергетика",
       "isDefault": true
     }
   ],

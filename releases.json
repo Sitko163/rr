@@ -1,7 +1,31 @@
 {
-  "latest_version": "v6.0.13",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.13/app-release-v6.0.13.apk",
+  "latest_version": "v6.0.19",
+  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.19/app-release-v6.0.19.apk",
   "releases": [
+    {
+      "version": "v6.0.19",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.19/app-release-v6.0.19.apk",
+      "description": "Север и Север-10: списки н.п. в п.16 по направлению профиля (Север-10 — 5 направлений, 330 н.п.); запоминание выбора; полный отчёт — время вылета без диапазона; резервные конфиги в APK",
+      "date": "2026-07-03"
+    },
+    {
+      "version": "v6.0.18",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.18/app-release-v6.0.18.apk",
+      "description": "Север: выпадающий список н.п. в п.16 по направлению профиля с запоминанием выбора; в полном отчёте время вылета без диапазона",
+      "date": "2026-07-03"
+    },
+    {
+      "version": "v6.0.16",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.16/app-release-v6.0.16.apk",
+      "description": "Избранное в длинных списках; квадрат работы с префиксами X/Y; инфо о конфиге; сохранение сортировки; подсказка номера вылета при новой смене; единый Excel; валидация конфига",
+      "date": "2026-06-16"
+    },
+    {
+      "version": "v6.0.15",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.15/app-release-v6.0.15.apk",
+      "description": "Без Keycloak; конфиги с зеркала airlineportal; сквозная нумерация; сортировка списка; красивый шаблон «Поделиться»; редактирование всех полей",
+      "date": "2026-06-16"
+    },
     {
       "version": "v6.0.13",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.13/app-release-v6.0.13.apk",
