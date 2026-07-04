@@ -1,30 +1,18 @@
 {
-  "latest_version": "v6.0.19",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.19/app-release-v6.0.19.apk",
+  "latest_version": "v6.0.20",
+  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.20/app-release-v6.0.20.apk",
   "releases": [
     {
-      "version": "v6.0.19",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.19/app-release-v6.0.19.apk",
-      "description": "Север и Север-10: списки н.п. в п.16 по направлению профиля (Север-10 — 5 направлений, 330 н.п.); запоминание выбора; полный отчёт — время вылета без диапазона; резервные конфиги в APK",
-      "date": "2026-07-03"
+      "version": "v6.0.20",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.20/app-release-v6.0.20.apk",
+      "description": "Скролл длинных списков (н.п.); избранное для населённых пунктов; редактирование и пересохранение вылетов в архиве",
+      "date": "2026-07-04"
     },
     {
       "version": "v6.0.18",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.18/app-release-v6.0.18.apk",
       "description": "Север: выпадающий список н.п. в п.16 по направлению профиля с запоминанием выбора; в полном отчёте время вылета без диапазона",
       "date": "2026-07-03"
-    },
-    {
-      "version": "v6.0.16",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.16/app-release-v6.0.16.apk",
-      "description": "Избранное в длинных списках; квадрат работы с префиксами X/Y; инфо о конфиге; сохранение сортировки; подсказка номера вылета при новой смене; единый Excel; валидация конфига",
-      "date": "2026-06-16"
-    },
-    {
-      "version": "v6.0.15",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.15/app-release-v6.0.15.apk",
-      "description": "Без Keycloak; конфиги с зеркала airlineportal; сквозная нумерация; сортировка списка; красивый шаблон «Поделиться»; редактирование всех полей",
-      "date": "2026-06-16"
     },
     {
       "version": "v6.0.13",
@@ -35,7 +23,7 @@
     {
       "version": "v6.0.12",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.12/app-release-v6.0.12.apk",
-      "description": "Настройка включения короткого отчёта; 103 боеприпаса в конфиге Тяжелые Дроны",
+      "description": "Настройка включения короткого отчёта; возврат дрона в короткой форме по той же настройке",
       "date": "2026-06-02"
     },
     {
@@ -47,38 +35,50 @@
     {
       "version": "v6.0.10",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.10/app-release-v6.0.10.apk",
-      "description": "Выбор конфига в настройках; Excel и Telegram с учётом возврата дрона; компактный шаблон Telegram",
+      "description": "Выбор конфига и восстановление экспорта",
       "date": "2026-06-04"
     },
     {
       "version": "v6.0.9",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.9/app-release-v6.0.9.apk",
-      "description": "Восстановлены короткие отчёты и вопрос «Дрон вернулся?»; настройка отключения диалога",
-      "date": "2026-06-04"
+      "description": "Короткие отчёты и возврат дронов",
+      "date": "2026-06-02"
     },
     {
       "version": "v6.0.8",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.8/app-release-v6.0.8.apk",
-      "description": "Исправлена проверка обновлений (сеть в фоне, редиректы APK)",
-      "date": "2026-06-04"
+      "description": "Версия 6.0.8",
+      "date": "2026-05-01"
     },
     {
       "version": "v6.0.7",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.7/app-release-v6.0.7.apk",
-      "description": "Справочники Тяжелые Дроны/Север; направления в выпадающем списке; БЧ и взрыватель необязательны; цель применения и результаты",
-      "date": "2026-06-02"
+      "description": "Версия 6.0.7",
+      "date": "2026-04-01"
     },
     {
       "version": "v6.0.1",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.1/app-release-v6.0.1.apk",
-      "description": "Выбор конфига после авторизации",
-      "date": "2026-03-03"
+      "description": "Версия 6.0.1",
+      "date": "2026-03-15"
     },
     {
       "version": "v6.0.0",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.0/app-release-v6.0.0.apk",
       "description": "Версия 6.0.0",
-      "date": "2026-03-02"
+      "date": "2026-03-03"
+    },
+    {
+      "version": "v5.0.7",
+      "apk_url": "https://github.com/Sitko163/report/releases/download/v5.0.7/app-release-v5.0.7.apk",
+      "description": "Версия 5.0.7",
+      "date": "2025-08-27"
+    },
+    {
+      "version": "v5.0.6",
+      "apk_url": "https://github.com/Sitko163/report/releases/download/v5.0.6/app-release-v5.0.6.apk",
+      "description": "Версия 5.0.6",
+      "date": "2025-08-27"
     }
   ]
 }
