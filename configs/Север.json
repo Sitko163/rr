@@ -325,10 +325,6 @@
       "isDefault": true
     },
     {
-      "value": "3.7 МШУ+Фильтр",
-      "isDefault": true
-    },
-    {
       "value": "3.3 + бустер",
       "isDefault": true
     },
@@ -400,6 +396,10 @@
     },
     {
       "value": "3.3 + бустер",
+      "isDefault": true
+    },
+    {
+      "value": "3.7 МШУ+Фильтр",
       "isDefault": true
     },
     {
