@@ -933,7 +933,11 @@
     {
       "value": "ПИ-Клевер",
       "isDefault": true
-    }, 
+    },
+    {
+      "value": "ПИУ-1М",
+      "isDefault": true
+    },  
     {
       "value": "модуль FC mimi",
       "isDefault": true
