@@ -281,6 +281,14 @@
     {
       "value": "Воган-15Т",
       "isDefault": true
+    },
+    {
+      "value": "1-570 v2",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-2",
+      "isDefault": true
     }
   ],
   "controlType": [
@@ -920,6 +928,10 @@
     },
     {
       "value": "ЭДП",
+      "isDefault": true
+    },
+    {
+      "value": "УДИВ ЭД",
       "isDefault": true
     }
   ],
