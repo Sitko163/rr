@@ -289,6 +289,14 @@
     {
       "value": "ПВХ-2",
       "isDefault": true
+    },
+    {
+      "value": "Малыш-ц",
+      "isDefault": true
+    },
+    {
+      "value": "Малыш-т",
+      "isDefault": true
     }
   ],
   "controlType": [
