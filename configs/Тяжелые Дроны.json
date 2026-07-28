@@ -925,6 +925,10 @@
     {
       "value": "Харьковское",
       "isDefault": true
+    },
+    {
+      "value": "Купянское",
+      "isDefault": true
     }
   ]
 }
