@@ -305,6 +305,10 @@
     {
       "value": "КВН-30-Т",
       "isDefault": true
+    },
+    {
+      "value": "Мавик сброс",
+      "isDefault": true
     }
   ],
   "controlType": [
