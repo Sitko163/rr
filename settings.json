@@ -235,7 +235,19 @@
       "isDefault": true
     },
     {
+      "value": "Сокол-Р",
+      "isDefault": true
+    },
+    {
+      "value": "Сокол-Р мини",
+      "isDefault": true
+    },
+    {
       "value": "Скворец-15 ОПТО (25 км.)",
+      "isDefault": true
+    },
+    {
+      "value": "Скворец-15",
       "isDefault": true
     },
     {
