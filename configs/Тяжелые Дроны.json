@@ -695,6 +695,10 @@
     {
       "value": "82-мм мина ОФ",
       "isDefault": true
+    },
+      {
+      "value": "ОФАБ-9ББ",
+      "isDefault": true
     }
   ],
   "fuzeType": [
