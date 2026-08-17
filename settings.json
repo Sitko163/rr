@@ -461,6 +461,10 @@
     {
       "value": "1600-1800",
       "isDefault": true
+    },
+    {
+      "value": "Я (пусто)",
+      "isDefault": true
     }
   ],
   "warhead": [
