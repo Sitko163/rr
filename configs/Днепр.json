@@ -387,6 +387,10 @@
     {
       "value": "1600-1800",
       "isDefault": true
+    },
+    {
+      "value": "! (пусто)",
+      "isDefault": true
     }
   ],
   "videoTransmitter": [
