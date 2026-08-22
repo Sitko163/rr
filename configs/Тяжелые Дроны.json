@@ -941,6 +941,10 @@
     {
       "value": "Купянское",
       "isDefault": true
+    },
+    {
+      "value": "Краматорское",
+      "isDefault": true
     }
   ]
 }
