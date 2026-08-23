@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.20",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.20/app-release-v6.0.20.apk",
+  "latest_version": "v6.0.24",
+  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.24/app-release-v6.0.24.apk",
   "releases": [
+    {
+      "version": "v6.0.24",
+      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.24/app-release-v6.0.24.apk",
+      "description": "Фикс краша Room (миграция 16→17); поиск БК/взрывателей; дублирование вылета; избранное БК сохраняется после обновления конфига",
+      "date": "2026-08-23"
+    },
     {
       "version": "v6.0.20",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.20/app-release-v6.0.20.apk",
