@@ -817,6 +817,10 @@
       "isDefault": true
     },
     {
+      "value": "ретранслятор",
+      "isDefault": true
+    },
+    {
       "value": "огневая позиция",
       "isDefault": true
     },
