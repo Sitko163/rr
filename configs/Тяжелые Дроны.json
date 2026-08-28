@@ -665,6 +665,10 @@
       "isDefault": true
     },
     {
+      "value": "ТБОБЧ-8",
+      "isDefault": true
+    },
+    {
       "value": "Мод-1",
       "isDefault": true
     },
@@ -698,10 +702,6 @@
     },
     {
       "value": "ОФАБ 9ББ",
-      "isDefault": true
-    },
-    {
-      "value": "ТБОБЧ-8",
       "isDefault": true
     }
   ],
