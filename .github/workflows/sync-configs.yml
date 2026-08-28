@@ -1,0 +1,26 @@
+name: Sync configs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'configs/**'
+      - 'settings.json'
+      - 'releases.json'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      !contains(github.event.head_commit.message, '[config-sync]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync configs to other repositories
+        env:
+          CONFIG_SYNC_TOKEN: ${{ secrets.CONFIG_SYNC_TOKEN }}
+          SOURCE_REPO: ${{ github.repository }}
+          GITHUB_SHA: ${{ github.sha }}
+        run: bash scripts/sync-config-repos.sh
