@@ -264,7 +264,7 @@
       "value": "КОФЗБЧ-5",
       "isDefault": true
     },
-      {
+    {
       "value": "РГ-ВО",
       "isDefault": true
     },
@@ -695,6 +695,106 @@
     {
       "value": "82-мм мина ОФ",
       "isDefault": true
+    },
+    {
+      "value": "ПГ-7Л",
+      "isDefault": true
+    },
+    {
+      "value": "ВОГ-25М",
+      "isDefault": true
+    },
+    {
+      "value": "ВОГ-17Д",
+      "isDefault": true
+    },
+    {
+      "value": "С-5СБ",
+      "isDefault": true
+    },
+    {
+      "value": "С-8",
+      "isDefault": true
+    },
+    {
+      "value": "ТБО-БЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ТОБЧ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-0.4",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-10",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-30",
+      "isDefault": true
+    },
+    {
+      "value": "9Н154М",
+      "isDefault": true
+    },
+    {
+      "value": "ОГ-9М",
+      "isDefault": true
+    },
+    {
+      "value": "ОРГ-1",
+      "isDefault": true
+    },
+    {
+      "value": "ОРГ-2",
+      "isDefault": true
+    },
+    {
+      "value": "ОФАБ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ОЗБН-1.4 \"Рюмка\"",
+      "isDefault": true
+    },
+    {
+      "value": "КОФ-1,6",
+      "isDefault": true
+    },
+    {
+      "value": "КОФ-2",
+      "isDefault": true
+    },
+    {
+      "value": "Контур-40-О",
+      "isDefault": true
+    },
+    {
+      "value": "Контур-50-О",
+      "isDefault": true
+    },
+    {
+      "value": "Контур-50-Т",
+      "isDefault": true
+    },
+    {
+      "value": "Контур-110",
+      "isDefault": true
+    },
+    {
+      "value": "82-мм выстрел ВО-1",
+      "isDefault": true
+    },
+    {
+      "value": "82-мм кумулятивная мина",
+      "isDefault": true
+    },
+    {
+      "value": "ГРТЗ",
+      "isDefault": true
     }
   ],
   "fuzeType": [
@@ -702,11 +802,11 @@
       "value": "МУВ-4",
       "isDefault": true
     },
-      {
+    {
       "value": "Б133-ПВВ12",
       "isDefault": true
     },
-      {
+    {
       "value": "У-517М",
       "isDefault": true
     },
