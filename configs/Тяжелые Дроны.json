@@ -699,6 +699,10 @@
       {
       "value": "ОФАБ 9ББ",
       "isDefault": true
+    },
+      {
+      "value": "ТБОБЧ-8",
+      "isDefault": true
     }
   ],
   "fuzeType": [
