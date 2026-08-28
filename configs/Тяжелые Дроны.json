@@ -109,10 +109,6 @@
     {
       "value": "Ночная Ведьма",
       "isDefault": true
-    },
-    {
-      "value": "Секира 19",
-      "isDefault": true
     }
   ],
   "controlType": [
@@ -665,7 +661,7 @@
       "isDefault": true
     },
     {
-      "value": "ТБОБЧ-8",
+      "value": "ТБО БЧ-8",
       "isDefault": true
     },
     {
@@ -698,10 +694,6 @@
     },
     {
       "value": "82-мм мина ОФ",
-      "isDefault": true
-    },
-    {
-      "value": "ОФАБ 9ББ",
       "isDefault": true
     }
   ],

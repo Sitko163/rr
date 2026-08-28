@@ -1,76 +1,82 @@
 {
   "latest_version": "v6.0.24",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.24/app-release-v6.0.24.apk",
+  "latest_apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.24/app-release-v6.0.24.apk",
   "releases": [
     {
       "version": "v6.0.24",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.24/app-release-v6.0.24.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.24/app-release-v6.0.24.apk",
       "description": "Фикс краша Room (миграция 16→17); поиск БК/взрывателей; дублирование вылета; избранное БК сохраняется после обновления конфига",
       "date": "2026-08-23"
     },
     {
+      "version": "v6.0.21",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.21/app-release-v6.0.21.apk",
+      "description": "Поиск БК/взрывателей; дублирование вылета; избранное БК/взрывателей не сбрасывается после обновления конфига; фикс миграции БД и двойного sync на старте",
+      "date": "2026-08-23"
+    },
+    {
       "version": "v6.0.20",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.20/app-release-v6.0.20.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.20/app-release-v6.0.20.apk",
       "description": "Скролл длинных списков (н.п.); избранное для населённых пунктов; редактирование и пересохранение вылетов в архиве",
       "date": "2026-07-04"
     },
     {
       "version": "v6.0.18",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.18/app-release-v6.0.18.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.18/app-release-v6.0.18.apk",
       "description": "Север: выпадающий список н.п. в п.16 по направлению профиля с запоминанием выбора; в полном отчёте время вылета без диапазона",
       "date": "2026-07-03"
     },
     {
       "version": "v6.0.13",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.13/app-release-v6.0.13.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.13/app-release-v6.0.13.apk",
       "description": "Подразделения в конфиге Тяжелые Дроны; короткий отчёт без БЧ; видео при редактировании и в Telegram",
       "date": "2026-06-05"
     },
     {
       "version": "v6.0.12",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.12/app-release-v6.0.12.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.12/app-release-v6.0.12.apk",
       "description": "Настройка включения короткого отчёта; возврат дрона в короткой форме по той же настройке",
       "date": "2026-06-02"
     },
     {
       "version": "v6.0.11",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.11/app-release-v6.0.11.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.11/app-release-v6.0.11.apk",
       "description": "Исправлены выпадающие списки в формах отчёта и выборе конфига",
       "date": "2026-06-04"
     },
     {
       "version": "v6.0.10",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.10/app-release-v6.0.10.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.10/app-release-v6.0.10.apk",
       "description": "Выбор конфига и восстановление экспорта",
       "date": "2026-06-04"
     },
     {
       "version": "v6.0.9",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.9/app-release-v6.0.9.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.9/app-release-v6.0.9.apk",
       "description": "Короткие отчёты и возврат дронов",
       "date": "2026-06-02"
     },
     {
       "version": "v6.0.8",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.8/app-release-v6.0.8.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.8/app-release-v6.0.8.apk",
       "description": "Версия 6.0.8",
       "date": "2026-05-01"
     },
     {
       "version": "v6.0.7",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.7/app-release-v6.0.7.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.7/app-release-v6.0.7.apk",
       "description": "Версия 6.0.7",
       "date": "2026-04-01"
     },
     {
       "version": "v6.0.1",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.1/app-release-v6.0.1.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.1/app-release-v6.0.1.apk",
       "description": "Версия 6.0.1",
       "date": "2026-03-15"
     },
     {
       "version": "v6.0.0",
-      "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.0/app-release-v6.0.0.apk",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.0/app-release-v6.0.0.apk",
       "description": "Версия 6.0.0",
       "date": "2026-03-03"
     },
