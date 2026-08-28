@@ -1179,10 +1179,6 @@
     {
       "value": "танк",
       "isDefault": true
-    },
-    {
-      "value": "Энергетика",
-      "isDefault": true
     }
   ],
   "applicationGoal": [
