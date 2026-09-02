@@ -297,6 +297,14 @@
     {
       "value": "Малыш-т",
       "isDefault": true
+    },
+    {
+      "value": "КВН-30-Т",
+      "isDefault": true
+    },
+    {
+      "value": "КВН-30",
+      "isDefault": true
     }
   ],
   "controlType": [
