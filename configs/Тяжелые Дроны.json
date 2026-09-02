@@ -837,6 +837,14 @@
     {
       "value": "ЭДП-р",
       "isDefault": true
+    },
+    {
+      "value": "М-6",
+      "isDefault": true
+    },
+    {
+      "value": "Запал УДЗ к РГН",
+      "isDefault": true
     }
   ],
   "targetType": [
