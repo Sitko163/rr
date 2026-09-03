@@ -71,6 +71,10 @@
       "isDefault": true
     },
     {
+      "value": "КВН-Т (33-42 км.)",
+      "isDefault": true
+    },
+    {
       "value": "ПрОвод-15",
       "isDefault": true
     },
@@ -231,7 +235,23 @@
       "isDefault": true
     },
     {
+      "value": "Сокол-Р",
+      "isDefault": true
+    },
+    {
+      "value": "Сокол-Р мини",
+      "isDefault": true
+    },
+    {
       "value": "Скворец-15 ОПТО (25 км.)",
+      "isDefault": true
+    },
+    {
+      "value": "Скворец-15",
+      "isDefault": true
+    },
+    {
+      "value": "Скворец-15 Т",
       "isDefault": true
     },
     {
@@ -367,6 +387,10 @@
     {
       "value": "1600-1800",
       "isDefault": true
+    },
+    {
+      "value": "Я (пусто)",
+      "isDefault": true
     }
   ],
   "videoTransmitter": [
@@ -437,6 +461,10 @@
     {
       "value": "1600-1800",
       "isDefault": true
+    },
+    {
+      "value": "Яя (пусто)",
+      "isDefault": true
     }
   ],
   "warhead": [
@@ -469,6 +497,10 @@
       "isDefault": true
     },
     {
+      "value": "ГРТЗ",
+      "isDefault": true
+    },
+    {
       "value": "ДЗБ-2",
       "isDefault": true
     },
@@ -485,15 +517,15 @@
       "isDefault": true
     },
     {
-      "value": "КАПЛЯ",
-      "isDefault": true
-    },
-    {
       "value": "КБ-80",
       "isDefault": true
     },
     {
       "value": "КБЧ-3",
+      "isDefault": true
+    },
+    {
+      "value": "КБЭ Капля ЭДП-Р",
       "isDefault": true
     },
     {
@@ -581,11 +613,19 @@
       "isDefault": true
     },
     {
+      "value": "ОФАБ-5",
+      "isDefault": true
+    },
+    {
       "value": "ОФНБЧ-2,0",
       "isDefault": true
     },
     {
       "value": "ОФНБЧ-3,0",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-0,5",
       "isDefault": true
     },
     {
@@ -602,10 +642,6 @@
     },
     {
       "value": "ОФБЧ-2,5",
-      "isDefault": true
-    },
-    {
-      "value": "ОФНБЧ-2.0",
       "isDefault": true
     },
     {
@@ -761,6 +797,10 @@
       "isDefault": true
     },
     {
+      "value": "РБК-500ПТАБ-1М",
+      "isDefault": true
+    },
+    {
       "value": "РГН",
       "isDefault": true
     },
@@ -833,6 +873,10 @@
       "isDefault": true
     },
     {
+      "value": "ТБО БЧ-8",
+      "isDefault": true
+    },
+    {
       "value": "ТБЧ-2.5",
       "isDefault": true
     },
@@ -890,98 +934,6 @@
     },
     {
       "value": "ЗБЧ-5",
-      "isDefault": true
-    },
-    {
-      "value": "ВОГ-25М",
-      "isDefault": true
-    },
-    {
-      "value": "ВОГ-17Д",
-      "isDefault": true
-    },
-    {
-      "value": "С-5СБ",
-      "isDefault": true
-    },
-    {
-      "value": "С-8",
-      "isDefault": true
-    },
-    {
-      "value": "ТБО-БЧ-5",
-      "isDefault": true
-    },
-    {
-      "value": "ТОБЧ-5",
-      "isDefault": true
-    },
-    {
-      "value": "ОФБЧ-0.4",
-      "isDefault": true
-    },
-    {
-      "value": "ОФБЧ-10",
-      "isDefault": true
-    },
-    {
-      "value": "ОФБЧ-30",
-      "isDefault": true
-    },
-    {
-      "value": "9Н154М",
-      "isDefault": true
-    },
-    {
-      "value": "ОГ-9М",
-      "isDefault": true
-    },
-    {
-      "value": "ОФАБ-5",
-      "isDefault": true
-    },
-    {
-      "value": "ОЗБН-1.4 \"Рюмка\"",
-      "isDefault": true
-    },
-    {
-      "value": "КОФ-1,6",
-      "isDefault": true
-    },
-    {
-      "value": "КОФ-2",
-      "isDefault": true
-    },
-    {
-      "value": "Контур-40-О",
-      "isDefault": true
-    },
-    {
-      "value": "Контур-50-О",
-      "isDefault": true
-    },
-    {
-      "value": "Контур-50-Т",
-      "isDefault": true
-    },
-    {
-      "value": "Контур-110",
-      "isDefault": true
-    },
-    {
-      "value": "ТБО БЧ-8",
-      "isDefault": true
-    },
-    {
-      "value": "82-мм выстрел ВО-1",
-      "isDefault": true
-    },
-    {
-      "value": "82-мм кумулятивная мина",
-      "isDefault": true
-    },
-    {
-      "value": "ГРТЗ",
       "isDefault": true
     }
   ],
