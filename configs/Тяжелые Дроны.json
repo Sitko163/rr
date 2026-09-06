@@ -845,6 +845,10 @@
     {
       "value": "Запал УДЗ к РГН",
       "isDefault": true
+    },
+    {
+      "value": "НХ-ПЧ",
+      "isDefault": true
     }
   ],
   "targetType": [
