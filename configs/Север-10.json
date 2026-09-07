@@ -977,6 +977,14 @@
     {
       "value": "ПИ-Клевер",
       "isDefault": true
+    }, 
+    {
+      "value": "МВ-КП 533",
+      "isDefault": true
+    },
+     {
+      "value": "ВМКП",
+      "isDefault": true
     },
     {
       "value": "ЭДП",
