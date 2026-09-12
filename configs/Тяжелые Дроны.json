@@ -109,6 +109,10 @@
     {
       "value": "Ночная Ведьма",
       "isDefault": true
+    },
+    {
+      "value": "Гамаюн-13Ц",
+      "isDefault": true
     }
   ],
   "controlType": [
