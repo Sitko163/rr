@@ -861,6 +861,10 @@
     {
       "value": "НХ-ПЧ",
       "isDefault": true
+    },
+    {
+      "value": "УДИВ-ЭД",
+      "isDefault": true
     }
   ],
   "targetType": [
