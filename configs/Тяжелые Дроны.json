@@ -111,7 +111,19 @@
       "isDefault": true
     },
     {
-      "value": "Гамаюн-13Ц",
+      "value": "Гамаюн",
+      "isDefault": true
+    },
+    {
+      "value": "Велес-17с",
+      "isDefault": true
+    },
+    {
+      "value": "F1",
+      "isDefault": true
+    },
+    {
+      "value": "F1-T",
       "isDefault": true
     }
   ],
@@ -609,10 +621,6 @@
       "isDefault": true
     },
     {
-      "value": "ЗБЧ-5",
-      "isDefault": true
-    },
-    {
       "value": "ТМ-62ПЗ",
       "isDefault": true
     },
@@ -765,10 +773,6 @@
       "isDefault": true
     },
     {
-      "value": "ОФАБ-9ББ",
-      "isDefault": true
-    },
-    {
       "value": "ОЗБН-1.4 \"Рюмка\"",
       "isDefault": true
     },
@@ -856,14 +860,6 @@
     },
     {
       "value": "Запал УДЗ к РГН",
-      "isDefault": true
-    },
-    {
-      "value": "НХ-ПЧ",
-      "isDefault": true
-    },
-    {
-      "value": "УДИВ-ЭД",
       "isDefault": true
     }
   ],
@@ -1076,6 +1072,10 @@
     },
     {
       "value": "Краматорское",
+      "isDefault": true
+    },
+    {
+      "value": "Крымское",
       "isDefault": true
     }
   ]
