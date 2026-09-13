@@ -405,6 +405,10 @@
       "isDefault": true
     },
     {
+      "value": "Цифра",
+      "isDefault": true
+    },
+    {
       "value": "Я (пусто)",
       "isDefault": true
     }
@@ -476,6 +480,10 @@
     },
     {
       "value": "1600-1800",
+      "isDefault": true
+    },
+    {
+      "value": "Цифра",
       "isDefault": true
     },
     {
