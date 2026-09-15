@@ -35,6 +35,10 @@
       "isDefault": true
     },
     {
+      "value": "БМ-35Р",
+      "isDefault": true
+    },
+    {
       "value": "Бумеранг-10 с АУЦ (День)",
       "isDefault": true
     },
@@ -48,6 +52,18 @@
     },
     {
       "value": "Бумеранг-10 (Ночь)",
+      "isDefault": true
+    },
+    {
+      "value": "Бумеранг-ПВО (Д)",
+      "isDefault": true
+    },
+    {
+      "value": "Бумеранг-ПВО (Н)",
+      "isDefault": true
+    },
+    {
+      "value": "Гамаюн-13Ц",
       "isDefault": true
     },
     {
@@ -76,6 +92,10 @@
     },
     {
       "value": "КВН-30-Т",
+      "isDefault": true
+    },
+    {
+      "value": "КВН-Т (33-42 км.)",
       "isDefault": true
     },
     {
@@ -147,15 +167,15 @@
       "isDefault": true
     },
     {
+      "value": "ПВХ-1С",
+      "isDefault": true
+    },
+    {
       "value": "ПВХ-1ИИ",
       "isDefault": true
     },
     {
       "value": "ПВХ-1ИИТ",
-      "isDefault": true
-    },
-    {
-      "value": "ПВХ-1С",
       "isDefault": true
     },
     {
@@ -239,7 +259,23 @@
       "isDefault": true
     },
     {
+      "value": "Сокол-Р",
+      "isDefault": true
+    },
+    {
+      "value": "Сокол-Р мини",
+      "isDefault": true
+    },
+    {
       "value": "Скворец-15 ОПТО (25 км.)",
+      "isDefault": true
+    },
+    {
+      "value": "Скворец-15",
+      "isDefault": true
+    },
+    {
+      "value": "Скворец-15 Т",
       "isDefault": true
     },
     {
@@ -375,6 +411,14 @@
     {
       "value": "1600-1800",
       "isDefault": true
+    },
+    {
+      "value": "Цифра",
+      "isDefault": true
+    },
+    {
+      "value": "Я (пусто)",
+      "isDefault": true
     }
   ],
   "videoTransmitter": [
@@ -445,6 +489,14 @@
     {
       "value": "1600-1800",
       "isDefault": true
+    },
+    {
+      "value": "Цифра",
+      "isDefault": true
+    },
+    {
+      "value": "Яя (пусто)",
+      "isDefault": true
     }
   ],
   "warhead": [
@@ -458,6 +510,10 @@
     },
     {
       "value": "9М115(МЕТИС)",
+      "isDefault": true
+    },
+    {
+      "value": "9Н154М",
       "isDefault": true
     },
     {
@@ -477,6 +533,10 @@
       "isDefault": true
     },
     {
+      "value": "ГРТЗ",
+      "isDefault": true
+    },
+    {
       "value": "ДЗБ-2",
       "isDefault": true
     },
@@ -493,15 +553,15 @@
       "isDefault": true
     },
     {
-      "value": "КАПЛЯ",
-      "isDefault": true
-    },
-    {
       "value": "КБ-80",
       "isDefault": true
     },
     {
       "value": "КБЧ-3",
+      "isDefault": true
+    },
+    {
+      "value": "КБЭ Капля ЭДП-Р",
       "isDefault": true
     },
     {
@@ -538,10 +598,6 @@
     },
     {
       "value": "КОФБЧ-5",
-      "isDefault": true
-    },
-    {
-      "value": "КОФЗБЧ-1.8",
       "isDefault": true
     },
     {
@@ -589,11 +645,19 @@
       "isDefault": true
     },
     {
+      "value": "ОФАБ-5",
+      "isDefault": true
+    },
+    {
       "value": "ОФНБЧ-2,0",
       "isDefault": true
     },
     {
       "value": "ОФНБЧ-3,0",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-0,5",
       "isDefault": true
     },
     {
@@ -657,7 +721,7 @@
       "isDefault": true
     },
     {
-      "value": "120 мм. ОФ мина",
+      "value": "120-мм. ОФ мина",
       "isDefault": true
     },
     {
@@ -761,6 +825,14 @@
       "isDefault": true
     },
     {
+      "value": "РБК-500СПБЭ",
+      "isDefault": true
+    },
+    {
+      "value": "РБК-500ПТАБ-1М",
+      "isDefault": true
+    },
+    {
       "value": "РГН",
       "isDefault": true
     },
@@ -830,6 +902,10 @@
     },
     {
       "value": "ТБГ-7В",
+      "isDefault": true
+    },
+    {
+      "value": "ТБО БЧ-8",
       "isDefault": true
     },
     {
@@ -955,7 +1031,7 @@
       "isDefault": true
     },
     {
-      "value": "УДИВ ЭД",
+      "value": "УДИВ-ЭД",
       "isDefault": true
     },
     {
@@ -989,9 +1065,9 @@
     {
       "value": "ПИУ-1М",
       "isDefault": true
-    },  
+    },
     {
-      "value": "модуль FC mimi",
+      "value": "Модуль FC mimi",
       "isDefault": true
     },
     {
@@ -1135,23 +1211,11 @@
     {
       "value": "танк",
       "isDefault": true
-    },
-    {
-      "value": "Энергетика",
-      "isDefault": true
     }
   ],
-  "applicationGoal": [
+    "applicationGoal": [
     {
       "value": "уничтожение",
-      "isDefault": true
-    },
-    {
-      "value": "доставка",
-      "isDefault": true
-    },
-    {
-      "value": "подавление",
       "isDefault": true
     }
   ],
@@ -1162,10 +1226,6 @@
     },
     {
       "value": "поражено",
-      "isDefault": true
-    },
-    {
-      "value": "добивание",
       "isDefault": true
     },
     {
