@@ -981,7 +981,7 @@
     {
       "value": "ПИУ-1М",
       "isDefault": true
-    },  
+    },
     {
       "value": "модуль FC mimi",
       "isDefault": true
@@ -1176,6 +1176,84 @@
     },
     {
       "value": "Харьковское",
+      "isDefault": true
+    }
+  ],
+  "sparksType": [
+    {
+      "value": "Спаркс",
+      "isDefault": true
+    },
+    {
+      "value": "18500",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 10300-10500 mah",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 10500 mah",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 9100 Mah",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 10300 mah 6S",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 12000 mah",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 24000 mah",
+      "isDefault": true
+    },
+    {
+      "value": "Сдвоенная АКБ увеличенной ёмкости с ШК под БпЛА типа \"Mavic-3\"",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ DJI Matrice 30T",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 18500 mAh",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 4s 7500 mAh 25c 24v",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ для БпЛА КТ DJI Matrice 4T",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 15000 mah 5.0",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 7500 mah 4S",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ «КЛЮЧ» (полутвердотельная) 29500 mAh 6S 22.2B ХТ-60",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 21000-23000 mah",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 30000 mah 6S",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 12000-13000 mah",
       "isDefault": true
     }
   ]
