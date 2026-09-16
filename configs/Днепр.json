@@ -289,6 +289,50 @@
     {
       "value": "Воган-15Т-ВОЛС (25км)",
       "isDefault": true
+    },
+    {
+      "value": "БМ-35Р",
+      "isDefault": true
+    },
+    {
+      "value": "Бумеранг-10 (День)",
+      "isDefault": true
+    },
+    {
+      "value": "Бумеранг-10 (Ночь)",
+      "isDefault": true
+    },
+    {
+      "value": "Бумеранг-ПВО (Д)",
+      "isDefault": true
+    },
+    {
+      "value": "Бумеранг-ПВО (Н)",
+      "isDefault": true
+    },
+    {
+      "value": "Гамаюн-13Ц",
+      "isDefault": true
+    },
+    {
+      "value": "КВН-Т (33-42 км.)",
+      "isDefault": true
+    },
+    {
+      "value": "Сокол-Р",
+      "isDefault": true
+    },
+    {
+      "value": "Сокол-Р мини",
+      "isDefault": true
+    },
+    {
+      "value": "Скворец-15",
+      "isDefault": true
+    },
+    {
+      "value": "Скворец-15 Т",
+      "isDefault": true
     }
   ],
   "controlType": [
@@ -367,6 +411,14 @@
     {
       "value": "1600-1800",
       "isDefault": true
+    },
+    {
+      "value": "Цифра",
+      "isDefault": true
+    },
+    {
+      "value": "Я (пусто)",
+      "isDefault": true
     }
   ],
   "videoTransmitter": [
@@ -436,6 +488,14 @@
     },
     {
       "value": "1600-1800",
+      "isDefault": true
+    },
+    {
+      "value": "Цифра",
+      "isDefault": true
+    },
+    {
+      "value": "Яя (пусто)",
       "isDefault": true
     }
   ],
@@ -649,7 +709,7 @@
       "isDefault": true
     },
     {
-      "value": "120 мм. ОФ мина",
+      "value": "120-мм. ОФ мина",
       "isDefault": true
     },
     {
@@ -883,6 +943,38 @@
     {
       "value": "ЗБЧ-5",
       "isDefault": true
+    },
+    {
+      "value": "9Н154М",
+      "isDefault": true
+    },
+    {
+      "value": "ГРТЗ",
+      "isDefault": true
+    },
+    {
+      "value": "КБЭ Капля ЭДП-Р",
+      "isDefault": true
+    },
+    {
+      "value": "ОФАБ-5",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-0,5",
+      "isDefault": true
+    },
+    {
+      "value": "РБК-500СПБЭ",
+      "isDefault": true
+    },
+    {
+      "value": "РБК-500ПТАБ-1М",
+      "isDefault": true
+    },
+    {
+      "value": "ТБО БЧ-8",
+      "isDefault": true
     }
   ],
   "fuzeType": [
@@ -947,7 +1039,7 @@
       "isDefault": true
     },
     {
-      "value": "УДИВ ЭД",
+      "value": "УДИВ-ЭД",
       "isDefault": true
     },
     {
@@ -983,7 +1075,7 @@
       "isDefault": true
     },
     {
-      "value": "модуль FC mimi",
+      "value": "Модуль FC mimi",
       "isDefault": true
     },
     {
