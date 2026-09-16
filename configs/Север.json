@@ -13,7 +13,15 @@
       "isDefault": true
     },
     {
-      "value": "ПВО БЯ",
+      "value": "Supercam-",
+      "isDefault": true
+    },
+    {
+      "value": "Zala-",
+      "isDefault": true
+    },
+    {
+      "value": "Орлан-10",
       "isDefault": true
     },
     {
@@ -21,7 +29,7 @@
       "isDefault": true
     },
     {
-      "value": "Орлан-10",
+      "value": "ПВО БЯ",
       "isDefault": true
     },
     {
@@ -37,25 +45,29 @@
       "isDefault": true
     },
     {
-      "value": "Supercam-",
-      "isDefault": true
-    },
-    {
       "value": "Черный глаз-",
-      "isDefault": true
-    },
-    {
-      "value": "Zala-",
       "isDefault": true
     }
   ],
   "droneType": [
+    {
+      "value": "Roi День",
+      "isDefault": true
+    },
+    {
+      "value": "Roi Ночь",
+      "isDefault": true
+    },
     {
       "value": "Аляска Д",
       "isDefault": true
     },
     {
       "value": "Аляска Н",
+      "isDefault": true
+    },
+    {
+      "value": "БМ-70",
       "isDefault": true
     },
     {
@@ -67,19 +79,31 @@
       "isDefault": true
     },
     {
+      "value": "Велес-25",
+      "isDefault": true
+    },
+    {
+      "value": "Воган-25",
+      "isDefault": true
+    },
+    {
+      "value": "Воган-25Т",
+      "isDefault": true
+    },
+    {
+      "value": "ВТ-40/2",
+      "isDefault": true
+    },
+    {
+      "value": "ВТ-40/2 Ночь",
+      "isDefault": true
+    },
+    {
       "value": "КВН-16",
       "isDefault": true
     },
     {
       "value": "КВН-16-Т",
-      "isDefault": true
-    },
-    {
-      "value": "КВН-30",
-      "isDefault": true
-    },
-    {
-      "value": "КВН-30-Т",
       "isDefault": true
     },
     {
@@ -91,27 +115,27 @@
       "isDefault": true
     },
     {
-      "value": "Скворец-25",
+      "value": "КВН-30",
       "isDefault": true
     },
     {
-      "value": "ПрОвод-25",
+      "value": "КВН-30-Т",
       "isDefault": true
     },
     {
-      "value": "Велес-25",
+      "value": "Клин",
       "isDefault": true
     },
     {
-      "value": "РусакО-25",
+      "value": "Клин Н",
       "isDefault": true
     },
     {
-      "value": "ВТ-40/2",
+      "value": "Малыш-т",
       "isDefault": true
     },
     {
-      "value": "ВТ-40/2 Ночь",
+      "value": "Малыш-ц",
       "isDefault": true
     },
     {
@@ -163,27 +187,7 @@
       "isDefault": true
     },
     {
-      "value": "Воган-25",
-      "isDefault": true
-    },
-    {
-      "value": "Воган-25Т",
-      "isDefault": true
-    },
-    {
-      "value": "РТД-К15",
-      "isDefault": true
-    },
-    {
-      "value": "РТД-К15Т",
-      "isDefault": true
-    },
-    {
       "value": "ПВХ-5",
-      "isDefault": true
-    },
-    {
-      "value": "ПВХ-5Т",
       "isDefault": true
     },
     {
@@ -191,19 +195,23 @@
       "isDefault": true
     },
     {
-      "value": "ПВХ-5Т-15",
-      "isDefault": true
-    },
-    {
       "value": "ПВХ-5-20",
       "isDefault": true
     },
     {
-      "value": "ПВХ-5Т-20",
+      "value": "ПВХ-5-22,5",
       "isDefault": true
     },
     {
-      "value": "ПВХ-5-22,5",
+      "value": "ПВХ-5Т",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-5Т-15",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-5Т-20",
       "isDefault": true
     },
     {
@@ -223,19 +231,27 @@
       "isDefault": true
     },
     {
-      "value": "Roi День",
+      "value": "ПрОвод-25",
       "isDefault": true
     },
     {
-      "value": "Roi Ночь",
+      "value": "Рой f1",
       "isDefault": true
     },
     {
-      "value": "Малыш-ц",
+      "value": "Рой f1T",
       "isDefault": true
     },
     {
-      "value": "Малыш-т",
+      "value": "РТД-К15",
+      "isDefault": true
+    },
+    {
+      "value": "РТД-К15Т",
+      "isDefault": true
+    },
+    {
+      "value": "РусакО-25",
       "isDefault": true
     },
     {
@@ -247,7 +263,7 @@
       "isDefault": true
     },
     {
-      "value": "Ш-10",
+      "value": "Скворец-25",
       "isDefault": true
     },
     {
@@ -279,14 +295,6 @@
       "isDefault": true
     },
     {
-      "value": "Х-52ВК",
-      "isDefault": true
-    },
-    {
-      "value": "Х-52ИК",
-      "isDefault": true
-    },
-    {
       "value": "Х-51П",
       "isDefault": true
     },
@@ -295,27 +303,27 @@
       "isDefault": true
     },
     {
-      "value": "БМ-70",
+      "value": "Х-52ВК",
       "isDefault": true
     },
     {
-      "value": "Клин",
+      "value": "Х-52ИК",
       "isDefault": true
     },
     {
-      "value": "Клин Н",
-      "isDefault": true
-    },
-    {
-      "value": "Рой f1",
-      "isDefault": true
-    },
-    {
-      "value": "Рой f1T",
+      "value": "Ш-10",
       "isDefault": true
     }
   ],
   "controlType": [
+    {
+      "value": "1300-1500",
+      "isDefault": true
+    },
+    {
+      "value": "1600-1800",
+      "isDefault": true
+    },
     {
       "value": "2.1",
       "isDefault": true
@@ -369,23 +377,15 @@
       "isDefault": true
     },
     {
+      "value": "StarLink",
+      "isDefault": true
+    },
+    {
       "value": "кузнечик",
       "isDefault": true
     },
     {
       "value": "Оптика",
-      "isDefault": true
-    },
-    {
-      "value": "StarLink",
-      "isDefault": true
-    },
-    {
-      "value": "1300-1500",
-      "isDefault": true
-    },
-    {
-      "value": "1600-1800",
       "isDefault": true
     }
   ],
@@ -396,6 +396,14 @@
     },
     {
       "value": "1.7",
+      "isDefault": true
+    },
+    {
+      "value": "1300-1500",
+      "isDefault": true
+    },
+    {
+      "value": "1600-1800",
       "isDefault": true
     },
     {
@@ -419,14 +427,6 @@
       "isDefault": true
     },
     {
-      "value": "3.7 МШУ + Фильтр",
-      "isDefault": true
-    },
-    {
-      "value": "7.2",
-      "isDefault": true
-    },
-    {
       "value": "3.3 + МШУ + Фильтр",
       "isDefault": true
     },
@@ -435,11 +435,11 @@
       "isDefault": true
     },
     {
-      "value": "4.1",
+      "value": "3.7 МШУ + Фильтр",
       "isDefault": true
     },
     {
-      "value": "500",
+      "value": "4.1",
       "isDefault": true
     },
     {
@@ -455,7 +455,11 @@
       "isDefault": true
     },
     {
-      "value": "Оптика",
+      "value": "500",
+      "isDefault": true
+    },
+    {
+      "value": "7.2",
       "isDefault": true
     },
     {
@@ -463,17 +467,13 @@
       "isDefault": true
     },
     {
-      "value": "1300-1500",
-      "isDefault": true
-    },
-    {
-      "value": "1600-1800",
+      "value": "Оптика",
       "isDefault": true
     }
   ],
   "warhead": [
     {
-      "value": "Без БК",
+      "value": "120мм-ОФ",
       "isDefault": true
     },
     {
@@ -482,6 +482,10 @@
     },
     {
       "value": "АТАКА-М",
+      "isDefault": true
+    },
+    {
+      "value": "Без БК",
       "isDefault": true
     },
     {
@@ -497,15 +501,15 @@
       "isDefault": true
     },
     {
+      "value": "ВОБ",
+      "isDefault": true
+    },
+    {
       "value": "ДЗБ-2",
       "isDefault": true
     },
     {
       "value": "ДКРП-4",
-      "isDefault": true
-    },
-    {
-      "value": "ФСП-4",
       "isDefault": true
     },
     {
@@ -525,27 +529,7 @@
       "isDefault": true
     },
     {
-      "value": "КОФ-1,6",
-      "isDefault": true
-    },
-    {
-      "value": "КОФ-2",
-      "isDefault": true
-    },
-    {
       "value": "КБЧ-3",
-      "isDefault": true
-    },
-    {
-      "value": "120мм-ОФ",
-      "isDefault": true
-    },
-    {
-      "value": "ОФБЧ-30",
-      "isDefault": true
-    },
-    {
-      "value": "ОФБЧ-0,5",
       "isDefault": true
     },
     {
@@ -561,23 +545,19 @@
       "isDefault": true
     },
     {
+      "value": "Клевец",
+      "isDefault": true
+    },
+    {
+      "value": "КОБЧ-2,5",
+      "isDefault": true
+    },
+    {
       "value": "КОБЭ-3М",
       "isDefault": true
     },
     {
       "value": "КОБЭ-80",
-      "isDefault": true
-    },
-    {
-      "value": "ОФБЧ-10",
-      "isDefault": true
-    },
-    {
-      "value": "ОРГ-1",
-      "isDefault": true
-    },
-    {
-      "value": "КОБЧ-2,5",
       "isDefault": true
     },
     {
@@ -593,6 +573,14 @@
       "isDefault": true
     },
     {
+      "value": "КОФ-1,6",
+      "isDefault": true
+    },
+    {
+      "value": "КОФ-2",
+      "isDefault": true
+    },
+    {
       "value": "КОФБЧ-5",
       "isDefault": true
     },
@@ -605,15 +593,15 @@
       "isDefault": true
     },
     {
+      "value": "КОФЗБЧ-3Ф",
+      "isDefault": true
+    },
+    {
       "value": "КОФЗБЧ-4",
       "isDefault": true
     },
     {
       "value": "КОФЗБЧ-5",
-      "isDefault": true
-    },
-    {
-      "value": "КОФЗБЧ-3Ф",
       "isDefault": true
     },
     {
@@ -625,7 +613,31 @@
       "isDefault": true
     },
     {
+      "value": "Мод-1",
+      "isDefault": true
+    },
+    {
+      "value": "Мод-2",
+      "isDefault": true
+    },
+    {
+      "value": "ОГ-9М",
+      "isDefault": true
+    },
+    {
       "value": "ОКФОЛ-3,5",
+      "isDefault": true
+    },
+    {
+      "value": "ОРГ-1",
+      "isDefault": true
+    },
+    {
+      "value": "Осколочно-фугасный",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-0,5",
       "isDefault": true
     },
     {
@@ -634,6 +646,10 @@
     },
     {
       "value": "ОФБЧ-1,7",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-10",
       "isDefault": true
     },
     {
@@ -650,6 +666,10 @@
     },
     {
       "value": "ОФБЧ-3 'Пруток-В' с взрывателем УЗ-2 (ВМ-КП)",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ-30",
       "isDefault": true
     },
     {
@@ -765,6 +785,10 @@
       "isDefault": true
     },
     {
+      "value": "РКБ-250 ЗАБ-2,5 (М)",
+      "isDefault": true
+    },
+    {
       "value": "РКГ-3",
       "isDefault": true
     },
@@ -785,15 +809,15 @@
       "isDefault": true
     },
     {
+      "value": "Секира",
+      "isDefault": true
+    },
+    {
       "value": "СЗ-4П",
       "isDefault": true
     },
     {
       "value": "СЗ-6М",
-      "isDefault": true
-    },
-    {
-      "value": "Секира",
       "isDefault": true
     },
     {
@@ -829,7 +853,7 @@
       "isDefault": true
     },
     {
-      "value": "ТМ-72",
+      "value": "ТМ-62М",
       "isDefault": true
     },
     {
@@ -837,7 +861,11 @@
       "isDefault": true
     },
     {
-      "value": "ТМ-62М",
+      "value": "ТМ-72",
+      "isDefault": true
+    },
+    {
+      "value": "ФСП-4",
       "isDefault": true
     },
     {
@@ -846,34 +874,6 @@
     },
     {
       "value": "Шипы",
-      "isDefault": true
-    },
-    {
-      "value": "Мод-1",
-      "isDefault": true
-    },
-    {
-      "value": "Мод-2",
-      "isDefault": true
-    },
-    {
-      "value": "ВОБ",
-      "isDefault": true
-    },
-    {
-      "value": "Клевец",
-      "isDefault": true
-    },
-    {
-      "value": "Осколочно-фугасный",
-      "isDefault": true
-    },
-    {
-      "value": "ОГ-9М",
-      "isDefault": true
-    },
-    {
-      "value": "РКБ-250 ЗАБ-2,5 (М)",
       "isDefault": true
     }
   ],
@@ -895,11 +895,7 @@
       "isDefault": true
     },
     {
-      "value": "МУВ-4",
-      "isDefault": true
-    },
-    {
-      "value": "МД2",
+      "value": "МВП-62",
       "isDefault": true
     },
     {
@@ -907,15 +903,23 @@
       "isDefault": true
     },
     {
+      "value": "МД2",
+      "isDefault": true
+    },
+    {
       "value": "МД5М",
       "isDefault": true
     },
     {
-      "value": "МВП-62",
+      "value": "МУВ-4",
       "isDefault": true
     },
     {
       "value": "НАКОЛЬНИК",
+      "isDefault": true
+    },
+    {
+      "value": "ПИ-Клевер",
       "isDefault": true
     },
     {
@@ -928,6 +932,10 @@
     },
     {
       "value": "УДИВ ДД",
+      "isDefault": true
+    },
+    {
+      "value": "УЗ-2",
       "isDefault": true
     },
     {
@@ -944,14 +952,6 @@
     },
     {
       "value": "Электроспичка",
-      "isDefault": true
-    },
-    {
-      "value": "УЗ-2",
-      "isDefault": true
-    },
-    {
-      "value": "ПИ-Клевер",
       "isDefault": true
     }
   ],
@@ -973,11 +973,11 @@
       "isDefault": true
     },
     {
-      "value": "бронетранспортер",
+      "value": "БпЛА",
       "isDefault": true
     },
     {
-      "value": "БпЛА",
+      "value": "бронетранспортер",
       "isDefault": true
     },
     {
@@ -1037,19 +1037,19 @@
       "isDefault": true
     },
     {
-      "value": "пункт временной дислокации",
-      "isDefault": true
-    },
-    {
-      "value": "пункт управления",
-      "isDefault": true
-    },
-    {
       "value": "ПТРК",
       "isDefault": true
     },
     {
       "value": "ПУ БпЛА",
+      "isDefault": true
+    },
+    {
+      "value": "пункт временной дислокации",
+      "isDefault": true
+    },
+    {
+      "value": "пункт управления",
       "isDefault": true
     },
     {
@@ -1099,19 +1099,23 @@
   ],
   "applicationGoal": [
     {
-      "value": "уничтожение",
-      "isDefault": true
-    },
-    {
       "value": "доставка",
       "isDefault": true
     },
     {
       "value": "подавление",
       "isDefault": true
+    },
+    {
+      "value": "уничтожение",
+      "isDefault": true
     }
   ],
   "result": [
+    {
+      "value": "добивание",
+      "isDefault": true
+    },
     {
       "value": "не поражено",
       "isDefault": true
@@ -1121,25 +1125,21 @@
       "isDefault": true
     },
     {
-      "value": "добивание",
-      "isDefault": true
-    },
-    {
       "value": "уничтожено",
       "isDefault": true
     }
   ],
   "direction": [
     {
+      "value": "Рыльское направление",
+      "isDefault": true
+    },
+    {
       "value": "Сумское направление",
       "isDefault": true
     },
     {
       "value": "Теткинско-глушковское направление",
-      "isDefault": true
-    },
-    {
-      "value": "Рыльское направление",
       "isDefault": true
     }
   ],
