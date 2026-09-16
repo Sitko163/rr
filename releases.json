@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.24",
-  "latest_apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.24/app-release-v6.0.24.apk",
+  "latest_version": "v6.0.25",
+  "latest_apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.25/app-release-v6.0.25.apk",
   "releases": [
+    {
+      "version": "v6.0.25",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.25/app-release-v6.0.25.apk",
+      "description": "Пункт 19 АКБ: список из конфига Днепр, количество, выгрузка в Excel (колонки АКБ и Кол-во АКБ)",
+      "date": "2026-09-16"
+    },
     {
       "version": "v6.0.24",
       "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.24/app-release-v6.0.24.apk",
