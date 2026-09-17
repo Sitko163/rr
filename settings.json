@@ -127,6 +127,10 @@
       "isDefault": true
     },
     {
+      "value": "КВН-Т (33-45 км.)",
+      "isDefault": true
+    },
+    {
       "value": "Клин",
       "isDefault": true
     },
@@ -510,6 +514,10 @@
     },
     {
       "value": "122-мм снаряд ОФ7",
+      "isDefault": true
+    },
+    {
+      "value": "122-мм снаряд ОФ56",
       "isDefault": true
     },
     {
