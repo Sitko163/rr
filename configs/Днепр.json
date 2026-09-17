@@ -167,6 +167,10 @@
       "isDefault": true
     },
     {
+      "value": "Молния-2Р",
+      "isDefault": true
+    },
+    {
       "value": "Овод-15-О с ВОЛС (25 км.)",
       "isDefault": true
     },
@@ -502,6 +506,10 @@
   "warhead": [
     {
       "value": "120-мм. ОФ мина",
+      "isDefault": true
+    },
+    {
+      "value": "122-мм снаряд ОФ7",
       "isDefault": true
     },
     {
