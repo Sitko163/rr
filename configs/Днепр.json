@@ -1320,6 +1320,14 @@
       "value": "АКБ 24000 mah",
       "isDefault": true
     },
+     {
+      "value": "АКБ 25000 mah",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 26000 mah",
+      "isDefault": true
+    },
     {
       "value": "АКБ 30000 mah 6S",
       "isDefault": true
@@ -1350,6 +1358,10 @@
     },
     {
       "value": "Сдвоенная АКБ увеличенной ёмкости с ШК под БпЛА типа \"Mavic-3\"",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 7500 100с",
       "isDefault": true
     },
     {
