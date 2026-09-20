@@ -1021,6 +1021,88 @@
       "isDefault": true
     }
   ],
+  "interestsOf": [
+    {
+      "value": "245 мсп",
+      "isDefault": true
+    },
+    {
+      "value": "Батальон Ахмат",
+      "isDefault": true
+    },
+    {
+      "value": "Отряд Запад",
+      "isDefault": true
+    },
+    {
+      "value": "350 мсп",
+      "isDefault": true
+    },
+    {
+      "value": "3 бат 1465 полк",
+      "isDefault": true
+    },
+    {
+      "value": "27 АП",
+      "isDefault": true
+    },
+    {
+      "value": "Отряд ЮГ",
+      "isDefault": true
+    },
+    {
+      "value": "Отряд Север-10",
+      "isDefault": true
+    },
+    {
+      "value": "61 Морская пехота",
+      "isDefault": true
+    },
+    {
+      "value": "110 Морская пехота",
+      "isDefault": true
+    },
+    {
+      "value": "110 мсп",
+      "isDefault": true
+    },
+    {
+      "value": "5 бригада",
+      "isDefault": true
+    },
+    {
+      "value": "76 ДШД",
+      "isDefault": true
+    },
+    {
+      "value": "Отряд Центр",
+      "isDefault": true
+    },
+    {
+      "value": "Отряд Днепр",
+      "isDefault": true
+    },
+    {
+      "value": "Отряд ДМ",
+      "isDefault": true
+    },
+    {
+      "value": "24 обр СпН",
+      "isDefault": true
+    },
+    {
+      "value": "55 омсбр",
+      "isDefault": true
+    },
+    {
+      "value": "ЮГ-22",
+      "isDefault": true
+    },
+    {
+      "value": "1438 полк",
+      "isDefault": true
+    }
+  ],
   "applicationGoal": [
     {
       "value": "доставка",

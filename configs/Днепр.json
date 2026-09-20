@@ -1328,7 +1328,7 @@
       "value": "АКБ 24000 mah",
       "isDefault": true
     },
-     {
+    {
       "value": "АКБ 25000 mah",
       "isDefault": true
     },
@@ -1388,5 +1388,6 @@
       "value": "Спаркс",
       "isDefault": true
     }
-  ]
+  ],
+  "interestsOf": []
 }

@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.25",
-  "latest_apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.25/app-release-v6.0.25.apk",
+  "latest_version": "v6.0.26",
+  "latest_apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.26/app-release-v6.0.26.apk",
   "releases": [
+    {
+      "version": "v6.0.26",
+      "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.26/app-release-v6.0.26.apk",
+      "description": "Пункт 13.1 «В чьих интересах» (форма/короткий/Excel), вкл-выкл в настройках, «не выбрано»; повторный выбор «Дрон вернулся?» при редактировании и в архиве; справочник interestsOf для Тяжелые Дроны",
+      "date": "2026-09-21"
+    },
     {
       "version": "v6.0.25",
       "apk_url": "https://github.com/Sitko163/aviasales/releases/download/v6.0.25/app-release-v6.0.25.apk",
