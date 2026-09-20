@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.26",
-  "latest_apk_url": "https://airlineportal.ru/rubikon/app-release-v6.0.26.apk",
+  "latest_version": "v6.0.27",
+  "latest_apk_url": "https://airlineportal.ru/rubikon/app-release-v6.0.27.apk",
   "releases": [
+    {
+      "version": "v6.0.27",
+      "apk_url": "https://airlineportal.ru/rubikon/app-release-v6.0.27.apk",
+      "description": "Фикс скачивания обновлений (NetworkOnMainThreadException): APK качается в IO; fallback в браузер",
+      "date": "2026-09-21"
+    },
     {
       "version": "v6.0.26",
       "apk_url": "https://airlineportal.ru/rubikon/app-release-v6.0.26.apk",
