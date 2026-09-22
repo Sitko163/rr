@@ -325,6 +325,10 @@
     {
       "value": "КВН-35-Т",
       "isDefault": true
+    },
+    {
+      "value": "КВС",
+      "isDefault": true
     }
   ],
   "controlType": [
