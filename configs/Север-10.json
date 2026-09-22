@@ -329,6 +329,10 @@
     {
       "value": "КВС",
       "isDefault": true
+    },
+    {
+      "value": "Скворец-опто-15",
+      "isDefault": true
     }
   ],
   "controlType": [
