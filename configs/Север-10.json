@@ -576,6 +576,10 @@
       "value": "Клевец",
       "isDefault": true
     },
+     {
+      "value": "МВКП-533",
+      "isDefault": true
+    },
     {
       "value": "КОБЧ-2,5",
       "isDefault": true
@@ -940,6 +944,10 @@
     },
     {
       "value": "МД-5",
+      "isDefault": true
+    },
+     {
+      "value": "МД-6",
       "isDefault": true
     },
     {
