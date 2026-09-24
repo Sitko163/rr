@@ -1009,6 +1009,10 @@
     {
       "value": "Электроспичка",
       "isDefault": true
+    },
+    {
+      "value": "КД-8А",
+      "isDefault": true
     }
   ],
   "targetType": [
