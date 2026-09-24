@@ -317,22 +317,6 @@
     {
       "value": "Ш-10",
       "isDefault": true
-    },
-    {
-      "value": "КВН-35",
-      "isDefault": true
-    },
-    {
-      "value": "КВН-35-Т",
-      "isDefault": true
-    },
-    {
-      "value": "КВС",
-      "isDefault": true
-    },
-    {
-      "value": "Скворец-15-ОПТО",
-      "isDefault": true
     }
   ],
   "controlType": [
@@ -574,10 +558,6 @@
     },
     {
       "value": "Клевец",
-      "isDefault": true
-    },
-     {
-      "value": "МВКП-533",
       "isDefault": true
     },
     {
@@ -946,10 +926,6 @@
       "value": "МД-5",
       "isDefault": true
     },
-     {
-      "value": "МД-6",
-      "isDefault": true
-    },
     {
       "value": "МД2",
       "isDefault": true
@@ -1008,10 +984,6 @@
     },
     {
       "value": "Электроспичка",
-      "isDefault": true
-    },
-    {
-      "value": "КД-8А",
       "isDefault": true
     }
   ],
