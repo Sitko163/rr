@@ -653,6 +653,10 @@
       "isDefault": true
     },
     {
+      "value": "КОФ-2",
+      "isDefault": true
+    },
+    {
       "value": "КОФБЧ-5",
       "isDefault": true
     },
@@ -990,6 +994,10 @@
     },
     {
       "value": "ТМ-72",
+      "isDefault": true
+    },
+    {
+      "value": "ФОКС-2М",
       "isDefault": true
     },
     {
