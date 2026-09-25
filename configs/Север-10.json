@@ -317,6 +317,10 @@
     {
       "value": "Ш-10",
       "isDefault": true
+    },
+    {
+      "value": "КВН-35-Т",
+      "isDefault": true
     }
   ],
   "controlType": [
