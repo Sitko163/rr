@@ -258,6 +258,10 @@
       "value": "Рой f1T",
       "isDefault": true
     },
+     {
+      "value": "Молния-2 ПВО",
+      "isDefault": true
+    },
     {
       "value": "РусакО-25",
       "isDefault": true
@@ -984,6 +988,10 @@
     },
     {
       "value": "ЭДПР",
+      "isDefault": true
+    },
+     {
+      "value": "КД-8А",
       "isDefault": true
     },
     {
