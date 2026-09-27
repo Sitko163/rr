@@ -9,6 +9,10 @@
       "isDefault": true
     },
     {
+      "value": "БМ - 70. -",
+      "isDefault": true
+    },
+    {
       "value": "Lancet-",
       "isDefault": true
     },
@@ -52,6 +56,10 @@
   "droneType": [
     {
       "value": "1-570 v.2",
+      "isDefault": true
+    },
+    {
+      "value": "БМ - 70",
       "isDefault": true
     },
     {
