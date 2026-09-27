@@ -333,6 +333,10 @@
     {
       "value": "КВН-35-Т",
       "isDefault": true
+    },
+    {
+      "value": "БМ-70",
+      "isDefault": true
     }
   ],
   "controlType": [
