@@ -979,11 +979,35 @@
       "isDefault": true
     },
     {
+      "value": "ПЯТИТОЧЕЧНИК-1шт+ЭДП-1шт",
+      "isDefault": true
+    },
+    {
+      "value": "ПЯТИТОЧЕЧНИК-1шт+ЭДП-2шт",
+      "isDefault": true
+    },
+    {
+      "value": "ПЯТИТОЧЕЧНИК-1шт+КД-8А-1шт",
+      "isDefault": true
+    },
+    {
+      "value": "ПЯТИТОЧЕЧНИК-1шт+КД-8А-2шт",
+      "isDefault": true
+    },
+    {
       "value": "УДЗ",
       "isDefault": true
     },
     {
       "value": "УДИВ ДД",
+      "isDefault": true
+    },
+    {
+      "value": "УДИВ ДД-1шт+МД5М-1шт",
+      "isDefault": true
+    },
+     {
+      "value": "УДИВ ДД-1шт+МД2-1шт",
       "isDefault": true
     },
     {
@@ -1004,6 +1028,10 @@
     },
     {
       "value": "ЭДП",
+      "isDefault": true
+    },
+    {
+      "value": "ЭДП-1шт+КД-8А-1шт",
       "isDefault": true
     },
     {
