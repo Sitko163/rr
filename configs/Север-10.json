@@ -9,10 +9,6 @@
       "isDefault": true
     },
     {
-      "value": "БМ - 70. ",
-      "isDefault": true
-    },
-    {
       "value": "Lancet-",
       "isDefault": true
     },
@@ -56,10 +52,6 @@
   "droneType": [
     {
       "value": "1-570 v.2",
-      "isDefault": true
-    },
-    {
-      "value": "БМ - 70",
       "isDefault": true
     },
     {
@@ -128,14 +120,6 @@
     },
     {
       "value": "КВН-30-Т",
-      "isDefault": true
-    },
-    {
-      "value": "КВН-35",
-      "isDefault": true
-    },
-    {
-      "value": "КВН-35-Т",
       "isDefault": true
     },
     {
@@ -274,10 +258,6 @@
       "value": "Рой f1T",
       "isDefault": true
     },
-     {
-      "value": "Молния-2 ПВО",
-      "isDefault": true
-    },
     {
       "value": "РусакО-25",
       "isDefault": true
@@ -336,14 +316,6 @@
     },
     {
       "value": "Ш-10",
-      "isDefault": true
-    },
-    {
-      "value": "КВН-35-Т",
-      "isDefault": true
-    },
-    {
-      "value": "БМ-70",
       "isDefault": true
     }
   ],
@@ -979,39 +951,11 @@
       "isDefault": true
     },
     {
-      "value": "ПЯТИТОЧЕЧНИК-1шт+ЭДП-1шт",
-      "isDefault": true
-    },
-    {
-      "value": "ПЯТИТОЧЕЧНИК-1шт+ЭДП-2шт",
-      "isDefault": true
-    },
-    {
-      "value": "ПЯТИТОЧЕЧНИК-1шт+КД-8А-1шт",
-      "isDefault": true
-    },
-    {
-      "value": "ПЯТИТОЧЕЧНИК-1шт+КД-8А-2шт",
-      "isDefault": true
-    },
-    {
-      "value": "ПЯТИТОЧЕЧНИК-2шт+КД-8А-1шт",
-      "isDefault": true
-    },
-    {
       "value": "УДЗ",
       "isDefault": true
     },
     {
       "value": "УДИВ ДД",
-      "isDefault": true
-    },
-    {
-      "value": "УДИВ ДД-1шт+МД5М-1шт",
-      "isDefault": true
-    },
-     {
-      "value": "УДИВ ДД-1шт+МД2-1шт",
       "isDefault": true
     },
     {
@@ -1035,27 +979,11 @@
       "isDefault": true
     },
     {
-      "value": "ЭДП-1шт+КД-8А-1шт",
-      "isDefault": true
-    },
-    {
       "value": "ЭДПР",
-      "isDefault": true
-    },
-     {
-      "value": "ЭДПР-1шт+КД-8А-1шт",
-      "isDefault": true
-    },
-     {
-      "value": "КД-8А",
       "isDefault": true
     },
     {
       "value": "Электроспичка",
-      "isDefault": true
-    },
-    {
-      "value": "ЭД-3-0ИМ-К",
       "isDefault": true
     }
   ],
