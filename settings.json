@@ -1009,6 +1009,10 @@
       "isDefault": true
     },
     {
+      "value": "ТНТ 200",
+      "isDefault": true
+    },
+    {
       "value": "ФОКС-2М",
       "isDefault": true
     },
@@ -1056,6 +1060,10 @@
     },
     {
       "value": "МД5М",
+      "isDefault": true
+    },
+    {
+      "value": "МД5",
       "isDefault": true
     },
     {
