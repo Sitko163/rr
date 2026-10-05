@@ -713,6 +713,10 @@
       "isDefault": true
     },
     {
+      "value": "ОЗМ-72",
+      "isDefault": true
+    },
+    {
       "value": "ОКФОЛ-3,5",
       "isDefault": true
     },
@@ -1059,11 +1063,11 @@
       "isDefault": true
     },
     {
-      "value": "МД5М",
+      "value": "МД5",
       "isDefault": true
     },
     {
-      "value": "МД5",
+      "value": "МД5М",
       "isDefault": true
     },
     {
