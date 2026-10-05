@@ -213,6 +213,10 @@
     {
       "value": "П-300Т",
       "isDefault": true
+    },
+    {
+      "value": "Альтаир-Р",
+      "isDefault": true
     }
   ],
   "controlType": [
@@ -583,6 +587,10 @@
     {
       "value": "ОФБЧ-2,5",
       "isDefault": true
+    },
+    {
+      "value": "ГРТЗ",
+      "isDefault": true
     }
   ],
   "fuzeType": [
@@ -928,6 +936,18 @@
     },
     {
       "value": "УФСБ по ДНР",
+      "isDefault": true
+    },
+    {
+      "value": "8 ОА",
+      "isDefault": true
+    },
+    {
+      "value": "1 б 83 оп",
+      "isDefault": true
+    },
+    {
+      "value": "347 мсп",
       "isDefault": true
     }
   ],
