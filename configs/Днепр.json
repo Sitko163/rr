@@ -713,6 +713,10 @@
       "isDefault": true
     },
     {
+      "value": "ОЗМ-72",
+      "isDefault": true
+    },
+    {
       "value": "ОКФОЛ-3,5",
       "isDefault": true
     },
@@ -1009,7 +1013,7 @@
       "isDefault": true
     },
     {
-      "value": "ТНТ 200",
+      "value": "ТНТ-200",
       "isDefault": true
     },
     {
