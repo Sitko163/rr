@@ -333,6 +333,10 @@
     {
       "value": "КВС",
       "isDefault": true
+    },
+    {
+      "value": "ПрОвод-35Т",
+      "isDefault": true
     }
   ],
   "controlType": [
