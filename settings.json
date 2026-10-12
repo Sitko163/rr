@@ -39,6 +39,10 @@
       "isDefault": true
     },
     {
+      "value": "А-10 (Аляска)",
+      "isDefault": true
+    }
+    {
       "value": "БМ-35Р",
       "isDefault": true
     },
@@ -332,6 +336,10 @@
     },
     {
       "value": "Сокол-Р мини",
+      "isDefault": true
+    },
+    {
+      "value": "Сорока-10",
       "isDefault": true
     },
     {
