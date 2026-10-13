@@ -41,7 +41,7 @@
     {
       "value": "А-10 (Аляска)",
       "isDefault": true
-    }
+    },
     {
       "value": "БМ-35Р",
       "isDefault": true
@@ -1370,6 +1370,10 @@
     },
     {
       "value": "АКБ 21000-23000 mah",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 22000 mAh 4S1P",
       "isDefault": true
     },
     {
