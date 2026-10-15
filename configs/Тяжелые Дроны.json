@@ -591,6 +591,14 @@
     {
       "value": "ГРТЗ",
       "isDefault": true
+    },
+    {
+      "value": "СВУ-5",
+      "isDefault": true
+    },
+    {
+      "value": "СВУ-5Г",
+      "isDefault": true
     }
   ],
   "fuzeType": [
