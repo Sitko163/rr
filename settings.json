@@ -1441,6 +1441,10 @@
       "isDefault": true
     },
     {
+      "value": "Штатный",
+      "isDefault": true
+    },
+    {
       "value": "Спаркс",
       "isDefault": true
     }
