@@ -927,6 +927,14 @@
     {
       "value": "9H 154",
       "isDefault": true
+    },
+    {
+      "value": "КОФ-2",
+      "isDefault": true
+    },
+    {
+      "value": "Фокс-2",
+      "isDefault": true
     }
   ],
   "fuzeType": [
