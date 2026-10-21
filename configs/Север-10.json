@@ -919,6 +919,14 @@
     {
       "value": "Шипы",
       "isDefault": true
+    },
+    {
+      "value": "9H 125",
+      "isDefault": true
+    },
+    {
+      "value": "9H 154",
+      "isDefault": true
     }
   ],
   "fuzeType": [
@@ -1016,6 +1024,10 @@
     },
     {
       "value": "КД8А",
+      "isDefault": true
+    },
+    {
+      "value": "ЭД",
       "isDefault": true
     }
   ],
