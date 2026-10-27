@@ -1317,6 +1317,14 @@
     {
       "value": "уничтожение",
       "isDefault": true
+    },
+     {
+      "value": "ждун (радио)",
+      "isDefault": true
+    },
+     {
+      "value": "ждун (микрофон)",
+      "isDefault": true
     }
   ],
   "result": [
