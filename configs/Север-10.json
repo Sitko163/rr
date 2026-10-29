@@ -1006,6 +1006,10 @@
       "value": "УДИВ ДД",
       "isDefault": true
     },
+     {
+      "value": "УДИВ ДД2",
+      "isDefault": true
+    },
     {
       "value": "УДИВ ЭД",
       "isDefault": true
@@ -1028,6 +1032,10 @@
     },
     {
       "value": "КД-8А",
+      "isDefault": true
+    },
+      {
+      "value": "КД-С5",
       "isDefault": true
     },
     {
