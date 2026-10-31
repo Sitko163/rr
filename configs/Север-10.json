@@ -345,6 +345,10 @@
     {
       "value": "ПрОвод-35Т",
       "isDefault": true
+    },
+    {
+      "value": "ПрОвод-30",
+      "isDefault": true
     }
   ],
   "controlType": [
