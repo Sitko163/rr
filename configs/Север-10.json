@@ -951,6 +951,10 @@
     {
       "value": "Фокс-2",
       "isDefault": true
+    },
+    {
+      "value": "ОФСП-3",
+      "isDefault": true
     }
   ],
   "fuzeType": [
