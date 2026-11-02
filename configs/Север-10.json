@@ -349,6 +349,14 @@
     {
       "value": "ПрОвод-30",
       "isDefault": true
+    },
+    {
+      "value": "Сорока 10 АУЦ",
+      "isDefault": true
+    },
+    {
+      "value": "Сорока 10Т АУЦ",
+      "isDefault": true
     }
   ],
   "controlType": [
