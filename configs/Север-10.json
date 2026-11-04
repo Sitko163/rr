@@ -357,6 +357,10 @@
     {
       "value": "Сорока 10Т АУЦ",
       "isDefault": true
+    },
+    {
+      "value": "ПрОвод-35",
+      "isDefault": true
     }
   ],
   "controlType": [
