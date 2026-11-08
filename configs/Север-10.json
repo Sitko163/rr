@@ -975,6 +975,26 @@
     {
       "value": "ОФСП-3",
       "isDefault": true
+    },
+    {
+      "value": "Фокс-2М",
+      "isDefault": true
+    },
+    {
+      "value": "ЗБЧ-5 9Н125",
+      "isDefault": true
+    },
+    {
+      "value": "ТБО БЧ-8",
+      "isDefault": true
+    },
+    {
+      "value": "ОФБЧ 1.2",
+      "isDefault": true
+    },
+    {
+      "value": "БЧ-8",
+      "isDefault": true
     }
   ],
   "fuzeType": [
