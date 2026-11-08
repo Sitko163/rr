@@ -995,6 +995,10 @@
     {
       "value": "БЧ-8",
       "isDefault": true
+    },
+    {
+      "value": "КЭБ Капля",
+      "isDefault": true
     }
   ],
   "fuzeType": [
@@ -1104,6 +1108,10 @@
     },
     {
       "value": "ЭД",
+      "isDefault": true
+    },
+    {
+      "value": "плата Mimi",
       "isDefault": true
     }
   ],
