@@ -1,4 +1,4 @@
-{
+ {
   "subdivision": [
     {
       "value": "FPV К.Т. -",
@@ -348,6 +348,10 @@
     },
     {
       "value": "КВС",
+      "isDefault": true
+    },
+     {
+      "value": "КВС Т",
       "isDefault": true
     },
     {
