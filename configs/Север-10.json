@@ -1,4 +1,4 @@
- {
+{
   "subdivision": [
     {
       "value": "FPV К.Т. -",
@@ -130,7 +130,7 @@
       "value": "КВН-30-Т",
       "isDefault": true
     },
-       {
+    {
       "value": "КВН-35",
       "isDefault": true
     },
@@ -174,7 +174,7 @@
       "value": "Молния-2ДТ",
       "isDefault": true
     },
-     {
+    {
       "value": "Молния-2 ПВО",
       "isDefault": true
     },
@@ -350,7 +350,7 @@
       "value": "КВС",
       "isDefault": true
     },
-     {
+    {
       "value": "КВС Т",
       "isDefault": true
     },
@@ -375,6 +375,7 @@
       "isDefault": true
     }
   ],
+  "kit": [],
   "controlType": [
     {
       "value": "1300-1500",
@@ -1070,7 +1071,7 @@
       "value": "УДИВ ДД",
       "isDefault": true
     },
-     {
+    {
       "value": "УДИВ ДД2",
       "isDefault": true
     },
@@ -1098,7 +1099,7 @@
       "value": "КД-8А",
       "isDefault": true
     },
-      {
+    {
       "value": "КД-С5",
       "isDefault": true
     },
