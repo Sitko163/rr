@@ -1003,6 +1003,10 @@
     {
       "value": "КЭБ Капля",
       "isDefault": true
+    },
+    {
+      "value": "Клевец-2 УЦ",
+      "isDefault": true
     }
   ],
   "fuzeType": [
