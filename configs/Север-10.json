@@ -1008,6 +1008,14 @@
     {
       "value": "Клевец-2 УЦ",
       "isDefault": true
+    },
+    {
+      "value": "Клевец 2.4",
+      "isDefault": true
+    },
+    {
+      "value": "Клевец 3.4",
+      "isDefault": true
     }
   ],
   "fuzeType": [
