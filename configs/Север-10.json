@@ -1006,7 +1006,35 @@
       "isDefault": true
     },
     {
+      "value": "Босс 0.5",
+      "isDefault": true
+    },
+    {
+      "value": "Босс 1",
+      "isDefault": true
+    },
+    {
+      "value": "Босс 1.5",
+      "isDefault": true
+    },
+    {
+      "value": "Босс 2",
+      "isDefault": true
+    },
+    {
+      "value": "Босс 2.5",
+      "isDefault": true
+    },
+    {
+      "value": "Босс 3",
+      "isDefault": true
+    },
+    {
       "value": "Клевец-2 УЦ",
+      "isDefault": true
+    },
+    {
+      "value": "Клевец 2.5",
       "isDefault": true
     },
     {
