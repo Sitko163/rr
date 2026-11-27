@@ -373,6 +373,10 @@
     {
       "value": "ПрОвод-35",
       "isDefault": true
+    },
+    {
+      "value": "Упырь-18",
+      "isDefault": true
     }
   ],
   "kit": [],
