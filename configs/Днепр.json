@@ -1478,6 +1478,14 @@
       "isDefault": true
     },
     {
+      "value": "АКБ 4s 48000 mAh",
+      "isDefault": true
+    },
+    {
+      "value": "АКБ 4s 50000 mAh",
+      "isDefault": true
+    },
+    {
       "value": "АКБ 10S 40000 mah",
       "isDefault": true
     },
